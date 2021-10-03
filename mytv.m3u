@@ -1,8 +1,12 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml,https://iptv-org.github.io/epg/guides/comteco.com.bo.guide.xml,https://iptv-org.github.io/epg/guides/cosmote.gr.guide.xml,https://iptv-org.github.io/epg/guides/digiturk.com.tr.guide.xml,https://iptv-org.github.io/epg/guides/elcinema.com.guide.xml,https://iptv-org.github.io/epg/guides/guidatv.sky.it.guide.xml,https://iptv-org.github.io/epg/guides/hd-plus.de.guide.xml,https://iptv-org.github.io/epg/guides/m.tv.sms.cz.guide.xml,https://iptv-org.github.io/epg/guides/maxtv.hrvatskitelekom.hr.guide.xml,https://iptv-org.github.io/epg/guides/mediaset.it.guide.xml,https://iptv-org.github.io/epg/guides/meo.pt.guide.xml,https://iptv-org.github.io/epg/guides/mi.tv.guide.xml,https://iptv-org.github.io/epg/guides/mncvision.id.guide.xml,https://iptv-org.github.io/epg/guides/ontvtonight.com.guide.xml,https://iptv-org.github.io/epg/guides/programacion-tv.elpais.com.guide.xml,https://iptv-org.github.io/epg/guides/programetv.ro.guide.xml,https://iptv-org.github.io/epg/guides/programme-tv.net.guide.xml,https://iptv-org.github.io/epg/guides/programtv.onet.pl.guide.xml,https://iptv-org.github.io/epg/guides/telkussa.fi.guide.xml,https://iptv-org.github.io/epg/guides/tv.yandex.ru.guide.xml,https://iptv-org.github.io/epg/guides/tvgid.ua.guide.xml,https://iptv-org.github.io/epg/guides/tvguide.com.guide.xml,https://iptv-org.github.io/epg/guides/tvprofil.com.guide.xml,https://iptv-org.github.io/epg/guides/tvtv.ca.guide.xml,https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml,https://iptv-org.github.io/epg/guides/vidio.com.guide.xml"
 
+<!-- Community Channel -->
+
 #EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="",Kada TV
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/kadatv/index.m3u8
+
+<!-- Anime -->
 
 #EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese;English" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Animation",Animax
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
@@ -31,11 +35,39 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e
 #EXTINF:-1 tvg-id="RetroCrush.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjQwMDkzNDRf/RetroCrush_576x576.png" group-title="",RetroCrush
 https://digitalmediarights-retrocrush-1.sinclair.wurl.com/manifest/playlist.m3u8
 
+<!-- Philippines -->
+
+#EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="",CCTN 47
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="",CLTV 36
+#EXTVLCOPT:http-referrer=https://ssh101.com/
+https://tna5.bozztv.com/cltv36/index.m3u8
+
+#EXTINF:-1 tvg-id="CTV3CentralLuzon.ph" tvg-country="PH" tvg-language="" tvg-logo="https://i.imgur.com/BhTSFnR.png" group-title="",CTV3
+https://iptv--iptv.repl.co/streamlink?url=https://www.twitch.tv/communitytv3/
+
+#EXTINF:-1 tvg-id="GreatCommissionTVGCTV.ph" tvg-country="PH" tvg-language="" tvg-logo="" group-title="",GCTV
+http://45.32.115.103/live/livestream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Philippines" tvg-country="PH" tvg-language="Filipino" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" tvg-url="" group-title="",GMA Pinoy TV
+http://iptvtree.net:8080/live/32ad147d/055af3e9/147238.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Philippines" tvg-country="PH" tvg-language="Filipino" tvg-logo="https://logos.fandom.com/wiki/GMA_Life_TV?file=Gma-life-tv-first-logo.jpg" tvg-url="" group-title="",GMA Life TV
+http://iptvtree.net:8080/live/32ad147d/055af3e9/144867.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Philippines" tvg-country="PH" tvg-language="Filipino" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/1200px-DZBB594.svg.png" group-title="News",Super Radyo DZBB
+http://stream.gmanews.tv/ioslive/livestream/playlist.m3u
+
+<!-- Germany -->
+
 #EXTINF:-1 tvg-id="DasErste.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="",ARD
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
 
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+<!-- Japan -->
 
 #EXTINF:-1 tvg-id="FujiTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://en.wikipedia.org/wiki/Fuji_TV#/media/File:Fuji_TV_logo.svg" group-title="",Fuji TV
 https://fujitv1.mov3.co/hls/fujitv.m3u8
@@ -64,30 +96,12 @@ https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 #EXTINF:-1 tvg-id="WeatherNews.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="Weather",Weather News
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 
+<!-- North Korea -->
+
 #EXTINF:-1 tvg-id="KCTV.kp" tvg-country="KP" tvg-language="Korean" tvg-logo="https://i.imgur.com/rEn31ub.png" group-title="News",KCTV
 https://tv.nknews.org/tvdash/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="",CCTN 47
-http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="",CLTV 36
-#EXTVLCOPT:http-referrer=https://ssh101.com/
-https://tna5.bozztv.com/cltv36/index.m3u8
-
-#EXTINF:-1 tvg-id="CTV3CentralLuzon.ph" tvg-country="PH" tvg-language="" tvg-logo="https://i.imgur.com/BhTSFnR.png" group-title="",CTV3
-https://iptv--iptv.repl.co/streamlink?url=https://www.twitch.tv/communitytv3/
-
-#EXTINF:-1 tvg-id="GreatCommissionTVGCTV.ph" tvg-country="PH" tvg-language="" tvg-logo="" group-title="",GCTV
-http://45.32.115.103/live/livestream/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Philippines" tvg-country="PH" tvg-language="Filipino" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" tvg-url="" group-title="",GMA Pinoy TV
-http://iptvtree.net:8080/live/32ad147d/055af3e9/147238.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Philippines" tvg-country="PH" tvg-language="Filipino" tvg-logo="https://logos.fandom.com/wiki/GMA_Life_TV?file=Gma-life-tv-first-logo.jpg" tvg-url="" group-title="",GMA Life TV
-http://iptvtree.net:8080/live/32ad147d/055af3e9/144867.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Philippines" tvg-country="PH" tvg-language="Filipino" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/1200px-DZBB594.svg.png" group-title="News",Super Radyo DZBB
-http://stream.gmanews.tv/ioslive/livestream/playlist.m3u
+<!-- Singapore -->
 
 #EXTINF:-1 tvg-id="CNA.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/225px-CNA_new_logo.svg.png" group-title="News",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
