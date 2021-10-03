@@ -111,7 +111,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="News",BBC News (480p)
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 
-<!-- IMDB TV -->
+<!-- Movies -->
 
 #EXTINF:-1 tvg-id="AMCPresents.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Entertainment",AMC Presents (1080p)
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
@@ -124,52 +124,6 @@ https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SlightlyOffbyIFC.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Entertainment",Slightly Off by IFC (1080p)
 https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
-<!-- Local Now Entettainment -->
-
-#EXTINF:-1 tvg-id="CONtv.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa07ec3fc8cbc647f034483" group-title="Entertainment",CONtv
-https://contv-localnow.cinedigm.com/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LocalNowFearThis.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60417731dc00887af0275acb" group-title="Entertainment",Fear This!
-https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LocalNowFearThisSciFi.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60627a97603dcd03ae7ed472" group-title="Entertainment",Fear This! Sci-Fi
-https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Gametoon.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602dcef57b79a227b5568d84" group-title="Entertainment",Gametoon
-https://gametoon-localnow.cinedigm.com/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LocalNowAdrenalineRush.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601341747e82bb6a262f276b" group-title="Entertainment",Local Now Adrenaline Rush
-https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LocalNowFireside.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fdd3cad46f6084ed5257102" group-title="Entertainment",Local Now Fireside
-https://linear-127.frequency.stream/dist/localnow/127/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="OMLonRevry.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc810e0f000c90dd9563252" group-title="Entertainment",OML on Revry 
-https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PeopleTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7SarjaU.png" group-title="Entertainment",People TV
-https://peopletv-localnow.akamaized.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PopstarTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/mWrqBaS.png" group-title="Entertainment",Popstar! TV
-https://linear-10.frequency.stream/dist/localnow/10/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SurvivorNetTV.us" tvg-country="US" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607723ec19daa1553816098b" group-title="Entertainment",SurvivorNetTV
-https://linear-165.frequency.stream/dist/localnow/165/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VENN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zVoX1fM.jpg" group-title="Entertainment",VENN
-https://venntv-localnow.amagi.tv/index.m3u8
-
-<!-- Local Now Movies -->
-
-#EXTINF:-1 tvg-id="AfrolandTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RAJsPmP.png" group-title="Movies",Afroland TV
-https://afrolandtv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60e4824fda9b1e0dc15f2264_afrolandtv-live-1/ca5ddbc8-7087-47ef-beff-fc55393d74a2/4.m3u8
-
-#EXTINF:-1 tvg-id="BloodyDisgusting.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602dd011302f4d7da05d4bf3" group-title="Movies",Bloody Disgusting
-https://bloodydisgusting-localnow.cinedigm.com/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LocalNowDrama.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/603ef0de115bdc7aec7b7e82" group-title="Movies",Local Now Drama
-https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LocalNowMoviesofthe30sand40s.us" tvg-country="" tvg-language="" tvg-logo="" group-title="",Local Now Movies of the 30's and 40's
 https://linear-204.frequency.stream/dist/localnow/204/hls/master/playlist.m3u8
@@ -194,6 +148,3 @@ https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LocalNowMoviesofthe2020s.us" tvg-country="" tvg-language="" tvg-logo="" group-title="",Local Now Movies of the 2020s
 https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WildWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/4wl6dzq.png" group-title="Movies",Wild West
-https://localnowwildwest-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60bf9392e4f3185ab165fcc4_localnowwildwest-live/4c446ad0-cba9-41ba-81a7-f127d2ede93a/0.m3u8
