@@ -177,7 +177,7 @@ https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
 
 <!-- Indonesia -->
 
-#EXTINF:-1 tvg-id="TVRI.id" tvg-country="ID" tvg-language="" tvg-logo="http://1.bp.blogspot.com/-30awn5OxihI/T9VuzQQ5RqI/AAAAAAAADRM/_iPdRJhYiwQ/s1600/logo-lpp-tvri.png" group-title="",TVRI (720p)
+#EXTINF:-1 tvg-id="TVRI.id" tvg-country="ID" tvg-language="" tvg-logo="http://1.bp.blogspot.com/-30awn5OxihI/T9VuzQQ5RqI/AAAAAAAADRM/_iPdRJhYiwQ/s1600/logo-lpp-tvri.png" group-title="",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 
 <!-- Japan -->
@@ -220,7 +220,7 @@ http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3
 #EXTINF:-1 tvg-name="EBS 2" tvg-logo="https://i.imgur.com/7K7zmoE.png" group-title="Korea",EBS 2
 http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="" group-title="",KBS World (576p)
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="" group-title="",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KCTV.kp" tvg-country="KP" tvg-language="Korean" tvg-logo="https://i.imgur.com/rEn31ub.png" group-title="News",KCTV
