@@ -37,12 +37,6 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-country="APAC" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Business",Bloomberg TV Asia
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Business",Bloomberg TV Europe
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-
-#EXTINF:-1 tvg-id="BloombergTVUS.us" tvg-country="US" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Business",Bloomberg TV US
-https://bloomberg-bloomberg-1-be.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CNA.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/225px-CNA_new_logo.svg.png" group-title="News",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
@@ -51,6 +45,12 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="News",Euronews
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NASATVMedia.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/bKVNdeh.jpg" group-title="Education",NASA TV
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="NASATVPublic.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CH6VcTR.jpg" group-title="Education",NASA TV Public Education
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
