@@ -20,11 +20,17 @@ https://digitalmediarights-retrocrush-1.sinclair.wurl.com/manifest/playlist.m3u8
 
 <!-- News -->
 
+#EXTINF:-1 tvg-id="ABCNews.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" group-title="News",ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" group-title="Korea",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AustraliaChannel.au" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="News",BBC News
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
@@ -102,12 +108,6 @@ https://c.mjh.nz/101002210222
 #EXTINF:-1 tvg-id="ABCME.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png" group-title="",ABC ME
 https://c.mjh.nz/101002210224
 
-#EXTINF:-1 tvg-id="ABCNews.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" group-title="News",ABC News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-
-#EXTINF:-1 tvg-id="AustraliaChannel.au" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",Australia Channel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-
 <!-- China -->
 
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="General",CCTV-1
@@ -179,8 +179,8 @@ http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
 #EXTINF:-1 tvg-id="JiangSuWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png" group-title="",Jiangsu TV
 http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
 
-#EXTINF:-1 tvg-id="ShangHaiWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",Shanghai TV
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-dongfangstv/HD-2500k-1080P-dongfangstv
+#EXTINF:-1 tvg-id="ShangHaiWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",shanghai TV
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227396/index.m3u8
 
 #EXTINF:-1 tvg-id="ShenZhenWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",Shenzhen TV
 http://39.134.39.39/PLTV/88888888/224/3221226199/index.m3u8
