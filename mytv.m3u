@@ -242,9 +242,6 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 #EXTINF:-1 tvg-id="FujiTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://en.wikipedia.org/wiki/Fuji_TV#/media/File:Fuji_TV_logo.svg" group-title="",Fuji TV
 https://fujitv1.mov3.co/hls/fujitv.m3u8
 
-#EXTINF:-1 tvg-id="GunmaTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/800px-Gtv_logo_ja_01.svg.png" group-title="Local",Gunma TV
-https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
-
 #EXTINF:-1 tvg-id="NHKG.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://commons.wikimedia.org/wiki/File:NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="Entertainment",NHK G
 https://nhk1.mov3.co/hls/nhk.m3u8
 
@@ -256,9 +253,6 @@ https://www.news24.jp/livestream/index.m3u8
 
 #EXTINF:-1 tvg-id="TBS.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",TBS
 https://tbs.mov3.co/hls/tbs.m3u8
-
-#EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://i.imgur.com/BMXZjA1.png" group-title="Japan",TV Tokyo
-https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 
 #EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Local",Tokyo MX1
 https://movie.mcas.jp/mcas/mx1_2/master.m3u8
