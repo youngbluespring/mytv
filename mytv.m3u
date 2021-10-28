@@ -73,9 +73,6 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/cltv36/index.m3u8
 
-#EXTINF:-1 tvg-id="CTV3CentralLuzon.ph" tvg-country="PH" tvg-language="" tvg-logo="https://i.imgur.com/BhTSFnR.png" group-title="",CTV3
-https://iptv--iptv.repl.co/streamlink?url=https://www.twitch.tv/communitytv3/
-
 #EXTINF:-1 tvg-id="GreatCommissionTVGCTV.ph" tvg-country="PH" tvg-language="" tvg-logo="" group-title="",GCTV
 http://45.32.115.103/live/livestream/index.m3u8
 
@@ -249,23 +246,6 @@ https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist_b1728000.m3u8
 #EXTINF:-1 tvg-name="À Punt TV" tvg-logo="https://i.imgur.com/M88LoNl.png" group-title="Spain",À Punt TV
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8
 
-<!-- IMDB -->
-
-#EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oOFjyYf.png" group-title="Entertainment",Absolute Reality by WE TV
-https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AMCPresents.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Entertainment",AMC Presents
-https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="IFCFilmsPicks.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Movies",IFC Films Picks
-https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RushbyAMC.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Movies",Rush by AMC
-https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SlightlyOffbyIFC.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Entertainment",Slightly Off by IFC
-https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
 <!-- Local Now -->
 
 #EXTINF:-1 tvg-id="LocalNowMoviesofthe30sand40s.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="",Local Now Movies of the 30's and 40's
@@ -350,15 +330,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e39
 
 #EXTINF:-1 tvg-name="90s Throwback" tvg-logo="https://i.imgur.com/sI1o3uK.png" group-title="Movies (EN)",Pluto TV 90s Throwback
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=94&deviceId=5f4d86f519358a00072b978e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-name="Flicks of Fury" tvg-logo="https://i.imgur.com/yhyzBfb.png" group-title="Movies (EN)",Pluto TV Flicks of Fury
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-name="Paramount Movie Channel" tvg-logo="https://i.imgur.com/CfqRav0.png" group-title="Movies (EN)",Pluto TV Paramount Movie Channel
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-name="The Asylum" tvg-logo="https://i.imgur.com/rOxQfdG.png" group-title="Movies (EN)",Pluto TV The Asylum
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 <!-- Community Channel -->
 
