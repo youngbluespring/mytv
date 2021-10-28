@@ -320,10 +320,10 @@ http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 tvg-id="CONtv.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa07ec3fc8cbc647f034483" group-title="Entertainment",CONtv
 https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
 
-#EXTINF:-1 tvg-id="Docurama.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/5X5Z5eg.png" group-title="Documentary",Docurama (1080p)
+#EXTINF:-1 tvg-id="Docurama.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/5X5Z5eg.png" group-title="Documentary",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="DoveChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="Family",Dove Channel (1080p)
+#EXTINF:-1 tvg-id="DoveChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="Family",Dove Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="FashionBoxHD.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602dd03df5beda3db47bf0f2" group-title="Lifestyle",FashionBox HD
