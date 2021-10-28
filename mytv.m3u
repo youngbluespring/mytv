@@ -91,7 +91,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60803e541a829e0008e
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-id="STIRRStadium.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="Sports",STIRR Stadium
+#EXTINF:-1 tvg-id="STIRRStadium.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="Sports",Stadium
 http://stadium.sinclair.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="Sports",Tennis Channel
