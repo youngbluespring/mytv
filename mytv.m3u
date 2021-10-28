@@ -326,12 +326,6 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/mas
 #EXTINF:-1 tvg-id="DoveChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="Family",Dove Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="FashionBoxHD.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602dd03df5beda3db47bf0f2" group-title="Lifestyle",FashionBox HD
-https://fashionbox-localnow.cinedigm.com/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Gametoon.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602dcef57b79a227b5568d84" group-title="Entertainment",Gametoon
-https://gametoon-localnow.cinedigm.com/playlist.m3u8
-
 #EXTINF:-1 tvg-id="LoneStar.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzMxMzM1NzJf/LoneStar_250x250.png" group-title="Classic",Lone Star
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
 
@@ -340,9 +334,6 @@ https://mytime-roku-ingest.cinedigm.com/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SoReal.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5ODE2MDdf/SoReal_240x240.png" group-title="Lifestyle",So... Real
 https://soreal-localnow.cinedigm.com/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TheBobRossChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BobRossChannel_275x275.png?raw=true" group-title="Culture",The Bob Ross Channel (1080p)
-https://bobross-xumous-ingest.cinedigm.com/master.m3u8
 
 #EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X7NV3X1.png" group-title="Movies",The Film Detective
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
