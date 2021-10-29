@@ -308,6 +308,15 @@ https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/60
 
 <!-- USA -->
 
+#EXTINF:-1 tvg-id="AMGTV.us" tvg-country="US" tvg-language="English" tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top.png" group-title="Family",AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KMSGLD5.us" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/4.5.png" group-title="Entertainment",Antenna TV
+https://cdn87.theus6tv.tk/locals/Fresno/kmsg-43.5.m3u8
+
+#EXTINF:-1 tvg-id="BizTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/4pEmcFH.png" group-title="Lifestyle",Biz TV
+https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BloodyDisgusting.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602dd011302f4d7da05d4bf3" group-title="Movies",Bloody Disgusting
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
 
@@ -320,6 +329,9 @@ http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-id="Circle.us" tvg-country="US" tvg-language="English" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjY2MjYwMTlf?inline=1" group-title="Entertainment",Circle
 https://circle-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2LJzdu6.png" group-title="Classic",Classic Arts Showcase
+https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
+
 #EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ComedyDynamics_640x640.png" group-title="Comedy",Comedy Dynamics
 https://comedydynamics-wurl.cinedigm.com/playlist.m3u8
 
@@ -329,14 +341,44 @@ http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 tvg-id="CONtv.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa07ec3fc8cbc647f034483" group-title="Entertainment",CONtv
 https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
 
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60526b849849524498245b78" group-title="Documentary",Court TV
+https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
+
+#EXTINF:-1 tvg-id="KNSDDT2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/0Nj1N5u.png" group-title="Classic",Cozi TV
+https://cdn87.theus6tv.tk/locals/SanDiego/knsd-dt2.m3u8
+
+#EXTINF:-1 tvg-id="KFAZDT2" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/36.4-Decades.png" group-title="Entertainment",Decades
+https://cdn87.theus6tv.tk/locals/Fresno/kfaz-8.2.m3u8
+
 #EXTINF:-1 tvg-id="Docurama.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/5X5Z5eg.png" group-title="Documentary",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="DoveChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="Family",Dove Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 
+#EXTINF:-1 tvg-id="KFMBTV3.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/61yoZPn.jpg" group-title="Classic",Grit
+https://cdn87.theus6tv.tk/locals/SanDiego/kfmb-dt3.m3u8
+
+#EXTINF:-1 tvg-id="TheHeartlandNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzI1NDE5MjJf/Heartland_720x720.png" group-title="",Heartland
+https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KKPXTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6sRUtfR.png" group-title="Local",Ion
+https://cdn87.theus6tv.tk/locals/BayArea/kkpx-dt1.m3u8
+
+#EXTINF:-1 tvg-id="KMSGLD9.us" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/7.3.png" group-title="Entertainment",Laff
+https://cdn87.theus6tv.tk/locals/Fresno/kmsg-43.9.m3u8
+
 #EXTINF:-1 tvg-id="LoneStar.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzMxMzM1NzJf/LoneStar_250x250.png" group-title="Classic",Lone Star
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KVBCLP3.us" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/2.3.png" group-title="Entertainment",Movies!
+https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.3.m3u8
+
+#EXTINF:-1 tvg-id="RetroTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzI1NDE0MTFf/RetroTV_v2_281x281.png" group-title="",Retro TV
+https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Revn.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzI1NDE5MjRf/Revn_375x375.png" group-title="",Rev'n
+https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Revry.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3" group-title="Lifestyle",Revry
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-revryxumo/CDN/master.m3u8
@@ -352,6 +394,12 @@ https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 
 #EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X7NV3X1.png" group-title="Movies",The Film Detective
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+
+#EXTINF:-1 tvg-id="theGrio.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GQgERPy.png" group-title="Local",theGrio
+https://thegriov2-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60b677f241a2d8778e68a712_thegriov2-live/31f886c1-1ea4-4cb3-9493-057c5f5fdc26/6.m3u8
+
+#EXTINF:-1 tvg-id="KVBCLP5.us" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/66.5.png" group-title="Entertainment",True Crime Network
+https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.5.m3u8
 
 <!-- Local Now -->
 
