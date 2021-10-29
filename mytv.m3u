@@ -362,6 +362,12 @@ https://cdn87.theus6tv.tk/locals/SanDiego/kfmb-dt3.m3u8
 #EXTINF:-1 tvg-id="TheHeartlandNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzI1NDE5MjJf/Heartland_720x720.png" group-title="",Heartland
 https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HillsongChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TBN_Hillsong_360x360.png?raw=true" group-title="Religious",Hillsong Channel
+https://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelInternational.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pLeCUEV.png" group-title="Religious",Hope Channel International
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/60f14a7fec64454e90712421a46ac6f1/manifest.m3u8
+
 #EXTINF:-1 tvg-id="KKPXTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6sRUtfR.png" group-title="Local",Ion
 https://cdn87.theus6tv.tk/locals/BayArea/kkpx-dt1.m3u8
 
@@ -394,6 +400,12 @@ https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 
 #EXTINF:-1 tvg-id="TBD.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="Entertainment",TBD.
 https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+
+#EXTINF:-1 tvg-id="TBNAsia.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/QyMAyrs.jpg" group-title="Religious",TBN Asia
+http://210.210.155.35/qwr9ew/s/s39/02.m3u8
+
+#EXTINF:-1 tvg-id="TBNUS.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zlZi5RN.jpg" group-title="Religious",TBN US
+https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8
 
 #EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X7NV3X1.png" group-title="Movies",The Film Detective
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
