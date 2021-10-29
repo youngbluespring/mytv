@@ -383,6 +383,9 @@ https://cdn87.theus6tv.tk/locals/Pheonix/kazt-dt2.m3u8
 #EXTINF:-1 tvg-id="KVBCLP3.us" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/2.3.png" group-title="Entertainment",Movies!
 https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.3.m3u8
 
+#EXTINF:-1 tvg-id="PositivTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ULF3iOE.png" group-title="Family",Positiv
+https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
+
 #EXTINF:-1 tvg-id="RetroTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzI1NDE0MTFf/RetroTV_v2_281x281.png" group-title="",Retro TV
 https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
 
@@ -392,8 +395,13 @@ https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/61839
 #EXTINF:-1 tvg-id="Revry.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3" group-title="Lifestyle",Revry
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-revryxumo/CDN/master.m3u8
 
+#EXTINF:-1 tvg-id="Smile.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TBN_Smile_512x512.png?raw=true" group-title="",Smile
+https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8
+
 #EXTINF:-1 tvg-id="SoReal.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5ODE2MDdf/SoReal_240x240.png" group-title="Lifestyle",So... Real
 https://soreal-localnow.cinedigm.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KVBCLP2.us" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/starttv.png" group-title="Entertainment",Start TV
 
 #EXTINF:-1 tvg-id="STIRRTheBobRossChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/89b69784-d184-4cb4-84b8-4b6a059bb1d7-small3x1_STIRR_Logo_0320_BobRoss_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Culture",The Bob Ross Channel
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
