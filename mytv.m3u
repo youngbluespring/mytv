@@ -371,6 +371,9 @@ https://cdn87.theus6tv.tk/locals/Fresno/kmsg-43.9.m3u8
 #EXTINF:-1 tvg-id="LoneStar.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzMxMzM1NzJf/LoneStar_250x250.png" group-title="Classic",Lone Star
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KAZTTV2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6nXpZqz.png" group-title="News",MeTV
+https://cdn87.theus6tv.tk/locals/Pheonix/kazt-dt2.m3u8
+
 #EXTINF:-1 tvg-id="KVBCLP3.us" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/2.3.png" group-title="Entertainment",Movies!
 https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.3.m3u8
 
