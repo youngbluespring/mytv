@@ -401,6 +401,9 @@ https://thegriov2-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc3
 #EXTINF:-1 tvg-id="KVBCLP5.us" tvg-country="US" tvg-language="English" tvg-logo="https://media-usba.mybtv.net/logos/66.5.png" group-title="Entertainment",True Crime Network
 https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.5.m3u8
 
+#EXTINF:-1 tvg-id="WorldChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBSWorld_972x972.png?raw=true" group-title="Entertainment",World
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+
 <!-- Local Now -->
 
 #EXTINF:-1 tvg-id="LocalNowMoviesofthe30sand40s.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="",Local Now Movies of the 30's and 40's
