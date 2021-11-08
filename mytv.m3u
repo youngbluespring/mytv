@@ -420,6 +420,15 @@ http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 tvg-id="ZheJiangWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="",Zhejiang TV
 http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
 
+#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/1200px-Phoenix_Chinese.svg.png" group-title="General",Phoenix Chinese Channel
+https://phoenixtv.hkatv.vip/liveott/PCC.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixHongKongChannel.hk" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/1280px-Phoenix_HK.svg.png" group-title="General",Phoenix Hong Kong Channel
+https://phoenixtv.hkatv.vip/liveott/PHK.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1280px-Phoenix_InfoNews.svg.png" group-title="News",Phoenix InfoNews Channel
+https://phoenixtv.hkatv.vip/liveott/PIN.m3u8
+
 <!-- Europe -->
 
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="General",TV5Monde
