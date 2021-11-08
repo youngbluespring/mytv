@@ -226,23 +226,14 @@ https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-
 #EXTINF:-1 tvg-id="CGTNEnglish.cn" tvg-country="CN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" group-title="News",CGTN
 https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-country="CN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary",CGTN Documentary
-http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
-
 #EXTINF:-1 tvg-id="CNA.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/225px-CNA_new_logo.svg.png" group-title="News",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-
-#EXTINF:-1 tvg-id="CNNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="News",Euronews
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="France24English.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="VoATV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="News",VoA TV
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
