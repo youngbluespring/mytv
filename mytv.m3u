@@ -298,6 +298,18 @@ https://livefta.malimarcdn.com/tvkedge/tvk2.stream/master.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" tvg-country="ID" tvg-language="" tvg-logo="http://1.bp.blogspot.com/-30awn5OxihI/T9VuzQQ5RqI/AAAAAAAADRM/_iPdRJhYiwQ/s1600/logo-lpp-tvri.png" group-title="",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 
+#EXTINF:-1 tvg-id="CelestialClassicMovies.hk" tvg-country="MY" tvg-language="Malay" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png" group-title="Movies",Celestial Classic Movies
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/1200px-Phoenix_Chinese.svg.png" group-title="General",Phoenix Chinese Channel
+https://phoenixtv.hkatv.vip/liveott/PCC.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixHongKongChannel.hk" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/1280px-Phoenix_HK.svg.png" group-title="General",Phoenix Hong Kong Channel
+https://phoenixtv.hkatv.vip/liveott/PHK.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1280px-Phoenix_InfoNews.svg.png" group-title="News",Phoenix InfoNews Channel
+https://phoenixtv.hkatv.vip/liveott/PIN.m3u8
+
 #EXTINF:-1 tvg-id="RTHKGangTaiDianShi32.hk" tvg-country="HK" tvg-language="Chinese" tvg-logo="" group-title="",RTHK 32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
 
@@ -311,7 +323,7 @@ http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TDMSportsMacau.mo" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="Sports",TDM Sports
-http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
+http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TDMInfoMacau.mo" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="",TDM Information
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
@@ -464,18 +476,6 @@ http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 
 #EXTINF:-1 tvg-id="ZheJiangWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="",Zhejiang TV
 http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
-
-#EXTINF:-1 tvg-id="CelestialClassicMovies.hk" tvg-country="MY" tvg-language="Malay" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png" group-title="Movies",Celestial Classic Movies
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/1200px-Phoenix_Chinese.svg.png" group-title="General",Phoenix Chinese Channel
-https://phoenixtv.hkatv.vip/liveott/PCC.m3u8
-
-#EXTINF:-1 tvg-id="PhoenixHongKongChannel.hk" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/1280px-Phoenix_HK.svg.png" group-title="General",Phoenix Hong Kong Channel
-https://phoenixtv.hkatv.vip/liveott/PHK.m3u8
-
-#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1280px-Phoenix_InfoNews.svg.png" group-title="News",Phoenix InfoNews Channel
-https://phoenixtv.hkatv.vip/liveott/PIN.m3u8
 
 <!-- Europe -->
 
