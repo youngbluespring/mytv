@@ -325,6 +325,9 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KCTV.kp" tvg-country="KP" tvg-language="Korean" tvg-logo="https://i.imgur.com/rEn31ub.png" group-title="News",KCTV
 https://tv.nknews.org/tvdash/stream.mpd
 
+#EXTINF:-1 tvg-id="AlSaudiya.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/MOiapKB.png" group-title="General",Al Saudiya
+https://iptv--iptv.repl.co/Arabic/Saudi1_TV
+
 <!-- China -->
 
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="General",CCTV-1
