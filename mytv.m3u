@@ -158,6 +158,9 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/mas
 #EXTINF:-1 tvg-id="DoveChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="Family",Dove Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 
+#EXTINF:-1 tvg-id="FashionTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/HBksX8u.png" group-title="Lifestyle",Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KFMBTV3.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/61yoZPn.jpg" group-title="Classic",Grit
 https://cdn87.theus6tv.tk/locals/SanDiego/kfmb-dt3.m3u8
 
