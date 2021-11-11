@@ -38,9 +38,6 @@ https://streaming.fotvnetwork.workers.dev/stream/UCcTiBX8js_djhSSlmJRI99A/master
 #EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="",Filipino TV
 http://s2.pandatv.tn:8000/live/131495913257/04003169/62875.ts
 
-#EXTINF:-1 tvg-id="GreatCommissionTVGCTV.ph" tvg-country="PH" tvg-language="" tvg-logo="" group-title="",GCTV
-http://45.32.115.103/live/livestream/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Philippines" tvg-country="PH" tvg-language="Filipino" tvg-logo="https://logos.fandom.com/wiki/GMA_Life_TV?file=Gma-life-tv-first-logo.jpg" tvg-url="" group-title="",GMA Life TV
 http://s2.pandatv.tn:8000/live/131495913257/04003169/62876.ts
 
