@@ -22,6 +22,12 @@ https://digitalmediarights-retrocrush-1.sinclair.wurl.com/manifest/playlist.m3u8
 
 <!-- Philippines -->
 
+#EXTINF:-1 group-title="PH CHANNELS",A2Z
+http://starshare.live:8080/live/041325/041325/19203.ts
+
+#EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="",ANC
+http://grtsa.sralm87.com:2082/live/Achrafplt_914689/Bktb63Qy/20416.ts
+
 #EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="",CCTN 47
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 
@@ -29,23 +35,92 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/cltv36/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="",Cinema One Global
+http://s2.pandatv.tn:8000/live/131495913257/04003169/62874.ts
+
+#EXTINF:-1 group-title="PH CHANNELS",CNN PHILIPPINES
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="PH CHANNELS",DEPED TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
+
+#EXTINF:-1 group-title="PH CHANNELS",DZRHTV
+https://streaming.fotvnetwork.workers.dev/stream/UCcTiBX8js_djhSSlmJRI99A/master.m3u8
+
+#EXTINF:-1 group-title="PH CHANNELS",FILIPINO TV
+http://s2.pandatv.tn:8000/live/131495913257/04003169/62875.ts
+
 #EXTINF:-1 tvg-id="GreatCommissionTVGCTV.ph" tvg-country="PH" tvg-language="" tvg-logo="" group-title="",GCTV
 http://45.32.115.103/live/livestream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Philippines" tvg-country="PH" tvg-language="Filipino" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" tvg-url="" group-title="",GMA Pinoy TV
-http://iptvtree.net:8080/live/32ad147d/055af3e9/147238.ts
+#EXTINF:-1 group-title="PH CHANNELS",GMA
+http://starshare.live:8080/live/041325/041325/19228.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Philippines" tvg-country="PH" tvg-language="Filipino" tvg-logo="https://logos.fandom.com/wiki/GMA_Life_TV?file=Gma-life-tv-first-logo.jpg" tvg-url="" group-title="",GMA Life TV
 http://iptvtree.net:8080/live/32ad147d/055af3e9/144867.ts
 
+#EXTINF:-1 group-title="PH CHANNELS",GMA NEWS
+http://s2.pandatv.tn:8000/live/131495913257/04003169/62877.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Philippines" tvg-country="PH" tvg-language="Filipino" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" tvg-url="" group-title="",GMA Pinoy TV
+http://iptvtree.net:8080/live/32ad147d/055af3e9/147238.ts
+
 #EXTINF:-1 tvg-id="INCTV.ph" tvg-country="PH" tvg-language="" tvg-logo="https://i.imgur.com/FcLAaMT.png" group-title="",INC TV
 http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/master.m3u8
+
+#EXTINF:-1 group-title="PH CHANNELS",KAPATID 5
+http://s2.pandatv.tn:8000/live/131495913257/04003169/62879.ts
+
+#EXTINF:-1 group-title="PH CHANNELS",LIVE TV ASIA
+https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
+
+#EXTINF:-1 group-title="PH CHANNELS",MYX
+http://grtsa.sralm87.com:2082/live/Achrafplt_914689/Bktb63Qy/52754.ts
+
+#EXTINF:-1 group-title="PH CHANNELS",NBA PHILIPPINES
+http://starshare.live:8080/live/041325/041325/19199.ts
+
+#EXTINF:-1 group-title="PH CHANNELS",NET 25
+https://streaming.fotvnetwork.workers.dev/stream/UC5IF8NlxMW1GkEUUqWJJBIw/master.m3u8
+
+#EXTINF:-1 group-title="PH CHANNELS",ONE PH
+http://starshare.live:8080/live/041325/041325/19206.ts
+
+#EXTINF:-1 group-title="PH CHANNELS",PBO
+http://king-tv.online/wctinney/aRaD1Pq2Rg/220963.m3u8
+
+#EXTINF:-1 group-title="PH CHANNELS",PILIPINAS HD
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
+
+#EXTINF:-1 group-title="PH CHANNELS",PTV
+https://streaming.fotvnetwork.workers.dev/stream/UCJCUbMaY593_4SN1QPG7NFQ/master.m3u8
+
+#EXTINF:-1 group-title="PH CHANNELS",RADYO BANDIDO
+https://streaming.fotvnetwork.workers.dev/stream/UC1f5yN0Hdibzm3JqqUswKvA/master.m3u8
+
+#EXTINF:-1 group-title="PH CHANNELS",SHOP TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/playlist.m3u8
+
+#EXTINF:-1 group-title="PH CHANNELS",SMNI
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Philippines" tvg-country="PH" tvg-language="Filipino" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/1200px-DZBB594.svg.png" group-title="News",Super Radyo DZBB
 http://stream.gmanews.tv/ioslive/livestream/playlist.m3u
 
 #EXTINF:-1 tvg-id="TeleRadyo.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yxKb7yF.jpg" group-title="",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="PH CHANNELS",TFC
+http://grtsa.sralm87.com:2082/live/Achrafplt_914689/Bktb63Qy/20419.ts
+
+#EXTINF:-1 group-title="PH CHANNELS",TFC CANADA
+http://s2.pandatv.tn:8000/live/131495913257/04003169/62881.ts
+
+#EXTINF:-1 group-title="PH CHANNELS",TV5
+http://starshare.live:8080/live/041325/041325/19256.ts
+
+#EXTINF:-1 group-title="PH CHANNELS",UNTV
+https://cdn.untvweb.com/live-stream/untvweb.m3u8
 
 <!-- Japan & Korea -->
 
