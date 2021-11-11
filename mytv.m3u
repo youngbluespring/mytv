@@ -355,6 +355,9 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="",TV9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MRTV.mm" tvg-country="MM" tvg-language="Burmese" tvg-logo="" group-title="",MRTV
+https://player-api.new.livestream.com/accounts/15604755/events/9605885/broadcasts/227263059.secure.m3u8?dw=14400&hdnea=st=1636651200~exp=1636653000~acl=/i/15604755_9605885_lsicpicdgxll7gwx0jm_1@688382/*~hmac=980dfa8b65ad469033ab8037b8ed63f059a3ff7151ba36efb76eae58e523a496&token=618d51ec_601eb0f60a1d7a8c8bd4185e9316fcbcb5ed4f36
+
 #EXTINF:-1 tvg-id="NBTBangkok.th" tvg-country="TH" tvg-language="Thai" tvg-logo="" group-title="",NBT
 http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 
