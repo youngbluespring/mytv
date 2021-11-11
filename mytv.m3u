@@ -329,7 +329,7 @@ http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVKCamboya.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="" group-title="",TVK2
 https://livefta.malimarcdn.com/tvkedge/tvk2.stream/master.m3u8
 
-#EXTINF:-1 tvg-id="TVRI.id" tvg-country="ID" tvg-language="" tvg-logo="http://1.bp.blogspot.com/-30awn5OxihI/T9VuzQQ5RqI/AAAAAAAADRM/_iPdRJhYiwQ/s1600/logo-lpp-tvri.png" group-title="",TVRI
+#EXTINF:-1 tvg-id="TVRI.id" tvg-country="ID" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1024px-TVRILogo2019.svg.png" group-title="",TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #EXTINF:-1 tvg-id="TVRISportHD.id" tvg-country="ID" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/TVRISportHD.png" group-title="",TVRI Sport HD
