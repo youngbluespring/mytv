@@ -29,9 +29,6 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/cltv36/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="",Cinema One Global
-http://s2.pandatv.tn:8000/live/131495913257/04003169/62874.ts
-
 #EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="",Filipino TV
 http://s2.pandatv.tn:8000/live/131495913257/04003169/62875.ts
 
@@ -324,6 +321,9 @@ https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8
 https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8
 
 <!-- SEA -->
+
+#EXTINF:-1 tvg-id="RTBSukmaindera.bn" tvg-country="BN" tvg-language="Malay" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-sukmaindera-title.png" group-title="",RTB Sukmaindera
+https://d19j8udk9agj55.cloudfront.net/smil:rtb1/chunklist_w1333328380_b1696000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="TVK.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="" group-title="",TVK
 http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8
