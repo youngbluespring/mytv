@@ -345,19 +345,19 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OKEY.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg" group-title="",OKEY
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://rtmlive02.secureswiftcontent.com/rtmchannel/02-1080.m3u8
 
 #EXTINF:-1 tvg-id="BeritaRTM.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" group-title="",Berita RTM
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://rtmlive03.secureswiftcontent.com/rtmchannel/03-1080.m3u8
 
 #EXTINF:-1 tvg-id="SukanRTM.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tvSUKANlogo_NEW.jpg" group-title="",Sukan RTM
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://rtmlive06.secureswiftcontent.com/rtmchannel/06-1080.m3u8
 
 #EXTINF:-1 tvg-id="TV6.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="",TV6
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://rtmlive07.secureswiftcontent.com/rtmchannel/07-1080.m3u8
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="",TV3
