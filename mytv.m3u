@@ -30,6 +30,9 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/cltv36/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="DZRH News" tvg-logo="https://cms.cignal.tv/Upload/Images/DZRH.png" group-title="News",DZRH News
+https://streaming.fotvnetwork.workers.dev/stream/UCcTiBX8js_djhSSlmJRI99A/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="",Filipino TV
 http://s2.pandatv.tn:8000/live/131495913257/04003169/62875.ts
 
@@ -53,6 +56,9 @@ http://meu02.cularu.com:8880/DW1Y028/CyRLTvavde/50129
 
 #EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="" tvg-logo="https://i.imgur.com/FcLAaMT.png" group-title="",Kapatid TV5
 http://s2.pandatv.tn:8000/live/131495913257/04003169/62879.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Net 25" tvg-logo="https://cms.cignal.tv/Upload/Images/NET%2025.png" group-title="Free-To-Air",Net 25
+https://streaming.fotvnetwork.workers.dev/stream/UC5IF8NlxMW1GkEUUqWJJBIw/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Philippines" tvg-country="PH" tvg-language="Filipino" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/1200px-DZBB594.svg.png" group-title="News",Super Radyo DZBB
 http://stream.gmanews.tv/ioslive/livestream/playlist.m3u
@@ -117,6 +123,9 @@ https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
 
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60526b849849524498245b78" group-title="Documentary",Court TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="eGG Network" tvg-logo="https://cms.cignal.tv/Upload/Images/Egg-Network.png" group-title="Others",eGG Network
+http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 
 #EXTINF:-1 tvg-id="NASATV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/bKVNdeh.jpg" group-title="Science",NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
