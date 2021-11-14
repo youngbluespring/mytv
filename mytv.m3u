@@ -30,9 +30,6 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/cltv36/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DZRH News" tvg-logo="https://cms.cignal.tv/Upload/Images/DZRH.png" group-title="News",DZRH News
-https://streaming.fotvnetwork.workers.dev/stream/UCcTiBX8js_djhSSlmJRI99A/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="",Filipino TV
 http://s2.pandatv.tn:8000/live/131495913257/04003169/62875.ts
 
