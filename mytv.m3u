@@ -33,14 +33,14 @@ https://tna5.bozztv.com/cltv36/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="",Filipino TV
 http://s2.pandatv.tn:8000/live/131495913257/04003169/62875.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="Philippines" tvg-country="PH" tvg-language="Filipino" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" tvg-url="" group-title="",GMA Pinoy TV
+http://s2.pandatv.tn:8000/live/131495913257/04003169/62878.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Philippines" tvg-country="PH" tvg-language="Filipino" tvg-logo="https://logos.fandom.com/wiki/GMA_Life_TV?file=Gma-life-tv-first-logo.jpg" tvg-url="" group-title="",GMA Life TV
 http://s2.pandatv.tn:8000/live/131495913257/04003169/62876.ts
 
 #EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="",GMA News TV
 http://s2.pandatv.tn:8000/live/131495913257/04003169/62877.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Philippines" tvg-country="PH" tvg-language="Filipino" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" tvg-url="" group-title="",GMA Pinoy TV
-http://s2.pandatv.tn:8000/live/131495913257/04003169/62878.ts
 
 #EXTINF:-1 tvg-id="" tvg-country="PH" tvg-logo="" tvg-language="" group-title="Religious",INC Radio
 http://churchrus2-lh.akamaihd.net/i/incradio_1@57550/master.m3u8
