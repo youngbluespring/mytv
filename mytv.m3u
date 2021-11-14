@@ -133,6 +133,9 @@ https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNick.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="Kids",Pluto TV Nick
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 
+#EXTINF:-1 tvg-id="PinkfongBabyShark.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1MGJg18.jpg" group-title="Kids",Pinkfong
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+
 #EXTINF:-1 tvg-id="pocketwatch.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Fi3klzX.png" group-title="",pocket.watch
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8
 
@@ -230,6 +233,9 @@ http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-country="APAC" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Business",Bloomberg TV Asia
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.adweek.com/wp-content/uploads/2019/12/quicktake-bloomberg-tictoc-CONTENT-2019-640x360.jpg" group-title="General",Bloomberg Quicktake
+https://bloomberg-quicktake-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CGTNEnglish.cn" tvg-country="CN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" group-title="News",CGTN
 https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 
@@ -302,6 +308,15 @@ http://cgntv-glive.ofsdelivery.net/live/cgntv_jp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CTSgidoggyoTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="http://www.bbsi.co.kr/HOME/img/common/imgLogo.png" group-title="",CTS
 https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+
+#EXTINF:-1 tvg-id="DaAiTelevision.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.daai.tv/images/logo.png" group-title="",Da Ai
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+
+#EXTINF:-1 tvg-id="DaAiTelevision.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.daai.tv/images/logo.png" group-title="",Da Ai 2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+
+#EXTINF:-1 tvg-id="DaAiTelevision.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.daai.tv/images/logo.png" group-title="",Da Ai 3
+https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 
 #EXTINF:-1 tvg-id="EWTNAsiaPacific.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjQyNTQ1MzNf/EWTN_450x450.png" group-title="Religious",EWTN
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
