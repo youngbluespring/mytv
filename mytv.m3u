@@ -533,6 +533,16 @@ https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m
 #EXTINF:-1 tvg-id="DasErste.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="",ARD
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
 
+#EXTINF:-1 tvg-id="RTL.lu" tvg-country="LU" tvg-language="French" tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="",RTL
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTL2.lu" tvg-country="LU" tvg-language="French" tvg-logo="" group-title="",RTL2
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="General",RTP Internacional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-name="La 1" tvg-logo="https://i.imgur.com/NbesiPn.png" group-title="Spain",La 1
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 
@@ -547,10 +557,6 @@ https://live-dvr.eitb-fastly.cross-media.es/live-content/etb1hd-hls/bitrate_4.m3
 
 #EXTINF:-1 tvg-name="EITB2" tvg-logo="https://imgur.com/VBVu2bu.png" group-title="Spain",EITB2
 https://live-dvr.eitb-fastly.cross-media.es/live-content/etb2hd-hls/bitrate_4.m3u8?start=1621550091
-
-#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="General",RTP Internacional
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TV3 Cat" tvg-logo="https://imgur.com/rNQYHmx.png" group-title="Spain",TV3 Cat
 https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist_b1728000.m3u8
