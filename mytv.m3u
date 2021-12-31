@@ -35,9 +35,6 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/cltv36/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="",Filipino TV
-http://s2.pandatv.tn:8000/live/131495913257/04003169/62875.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="Philippines" tvg-country="PH" tvg-language="Filipino" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" tvg-url="" group-title="",GMA Pinoy TV
 http://s2.pandatv.tn:8000/live/131495913257/04003169/62878.ts
 
@@ -179,9 +176,6 @@ https://c.mjh.nz/101002210224
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2LJzdu6.png" group-title="Classic",Classic Arts Showcase
 https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
 
-#EXTINF:-1 tvg-id="CourtTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60526b849849524498245b78" group-title="Documentary",Court TV
-https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
-
 #EXTINF:-1 tvg-id="NASATV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/bKVNdeh.jpg" group-title="Science",NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
@@ -190,9 +184,6 @@ https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVNick.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="Kids",Pluto TV Nick
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
-
-#EXTINF:-1 tvg-id="PinkfongBabyShark.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1MGJg18.jpg" group-title="Kids",Pinkfong
-https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="pocketwatch.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Fi3klzX.png" group-title="",pocket.watch
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8
