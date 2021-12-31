@@ -1,5 +1,7 @@
 #EXTM3U
 
+<!-- Anime -->
+
 #EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Animation",Animax Japan
 http://50.7.74.29:8080/hls/j00026/index.m3u8
 
