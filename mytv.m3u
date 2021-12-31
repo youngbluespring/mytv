@@ -146,9 +146,6 @@ https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 #EXTINF:-1 tvg-id="TVAsahi.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Local",TV Asahi
 http://50.7.74.29:8080/hlsok/j00014/index.m3u8
 
-#EXTINF:-1 tvg-id="TVOsaka.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Local",TV Osaka
-http://50.7.74.29:8080/hls/j00013/index.m3u8
-
 #EXTINF:-1 tvg-id="TVTokyo.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="Local",TV Tokyo
 http://50.7.74.29:8080/hls/j00012/index.m3u8
 
