@@ -116,10 +116,7 @@ http://50.7.74.29:8080/hls/j00036/index.m3u8
 #EXTINF:-1 tvg-id="NHKE.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Education",NHK E
 http://50.7.74.29:8080/hls/j00035/index.m3u8
 
-#EXTINF:-1 tvg-id="NHKGOsaka.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",NHK G Osaka
-http://50.7.74.29:8080/hls/j00032/index.m3u8
-
-#EXTINF:-1 tvg-id="NHKGTokyo.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",NHK G Tokyo
+#EXTINF:-1 tvg-id="NHKGTokyo.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",NHK G
 http://50.7.74.29:8080/hls/j00033/index.m3u8
 
 #EXTINF:-1 tvg-id="NipponTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/202.png" group-title="",Nippon TV
