@@ -1,5 +1,11 @@
 #EXTM3U
 
+<!-- Community Channel -->
+
+#EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="",Kada TV
+#EXTVLCOPT:http-referrer=https://ssh101.com/
+https://tna5.bozztv.com/kadatv/index.m3u8
+
 <!-- Anime -->
 
 #EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Animation",Animax Japan
@@ -606,9 +612,3 @@ https://live-dvr.eitb-fastly.cross-media.es/live-content/etb2hd-hls/bitrate_4.m3
 
 #EXTINF:-1 tvg-name="TV3 Cat" tvg-logo="https://imgur.com/rNQYHmx.png" group-title="Spain",TV3 Cat
 https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist_b1728000.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="",Kada TV
-#EXTVLCOPT:http-referrer=https://ssh101.com/
-https://tna5.bozztv.com/kadatv/index.m3u8
