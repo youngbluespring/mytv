@@ -26,22 +26,22 @@ https://digitalmediarights-retrocrush-1.sinclair.wurl.com/manifest/playlist.m3u8
 <!-- Japan -->
 
 #EXTINF:-1 tvg-id="BSAsahi.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",BS Asahi
-http://50.7.74.29:8080/hls/j00048/index.m3u8
+http://50.7.74.29:8080/hlsok/j00048/index.m3u8
 
 #EXTINF:-1 tvg-id="BSFujiTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",BS Fuji TV
-http://50.7.74.29:8080/hls/j00049/index.m3u8
+http://50.7.74.29:8080/hlsok/j00049/index.m3u8
 
 #EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",BS Nippon TV
-http://50.7.74.29:8080/hls/j00047/index.m3u8
+http://50.7.74.29:8080/hlsok/j00047/index.m3u8
 
 #EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",BS TV Tokyo
-http://50.7.74.29:8080/hls/j00050/index.m3u8
+http://50.7.74.29:8080/hlsok/j00050/index.m3u8
 
 #EXTINF:-1 tvg-id="BSTBS.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",BS TBS
-http://50.7.74.29:8080/hls/j00051/index.m3u8
+http://50.7.74.29:8080/hlsok/j00051/index.m3u8
 
 #EXTINF:-1 tvg-id="FujiTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",Fuji TV
-http://50.7.74.29:8080/hls/j00010/index.m3u8
+http://50.7.74.29:8080/hlsok/j00010/index.m3u8
 
 #EXTINF:-1 tvg-id="GAORA.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",GAORA
 http://50.7.74.29:8080/hls/j00045/index.m3u8
@@ -62,37 +62,37 @@ http://50.7.74.29:8080/hlsok/j00040/index.m3u8
 http://50.7.74.29:8080/hlsok/j00039/index.m3u8
 
 #EXTINF:-1 tvg-id="KansaiTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Local",Kansai TV
-http://50.7.74.29:8080/hls/j00006/index.m3u8
+http://50.7.74.29:8080/hlsok/j00006/index.m3u8
 
 #EXTINF:-1 tvg-id="NHKBS1.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",NHK BS1
-http://50.7.74.29:8080/hls/j00037/index.m3u8
+http://50.7.74.29:8080/hlsok/j00037/index.m3u8
 
 #EXTINF:-1 tvg-id="NHKBSP.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",NHK BSP
-http://50.7.74.29:8080/hls/j00036/index.m3u8
+http://50.7.74.29:8080/hlsok/j00036/index.m3u8
 
 #EXTINF:-1 tvg-id="NHKGTokyo.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",NHK G Tokyo
-http://50.7.74.29:8080/hls/j00033/index.m3u8
+http://50.7.74.29:8080/hlsok/j00033/index.m3u8
 
 #EXTINF:-1 tvg-id="NHKE.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Education",NHK E
-http://50.7.74.29:8080/hls/j00034/index.m3u8
+http://50.7.74.29:8080/hlsok/j00034/index.m3u8
 
 #EXTINF:-1 tvg-id="NipponTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/202.png" group-title="",Nippon TV
-http://50.7.74.29:8080/hls/j00004/index.m3u8
+http://50.7.74.29:8080/hlsok/j00004/index.m3u8
 
 #EXTINF:-1 tvg-id="NTVNews24.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="News",NTV News24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 #EXTINF:-1 tvg-id="Star1.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",Star 1
-http://50.7.74.29:8080/hls/j00019/index.m3u8
+http://50.7.74.29:8080/hlsok/j00019/index.m3u8
 
 #EXTINF:-1 tvg-id="Star2.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",Star 2
-http://50.7.74.29:8080/hls/j00018/index.m3u8
+http://50.7.74.29:8080/hlsok/j00018/index.m3u8
 
 #EXTINF:-1 tvg-id="Star3.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",Star 3
 http://50.7.74.29:8080/hlsok/j00017/index.m3u8
 
 #EXTINF:-1 tvg-id="TBS.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",TBS
-http://50.7.74.29:8080/hls/j00031/index.m3u8
+http://50.7.74.29:8080/hlsok/j00031/index.m3u8
 
 #EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Local",Tokyo MX1
 http://50.7.74.29:8080/hlsok/j00030/index.m3u8
@@ -101,13 +101,13 @@ http://50.7.74.29:8080/hlsok/j00030/index.m3u8
 https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 
 #EXTINF:-1 tvg-id="TVAsahi.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Local",TV Asahi
-http://50.7.74.29:8080/hls/j00014/index.m3u8
+http://50.7.74.29:8080/hlsok/j00014/index.m3u8
 
 #EXTINF:-1 tvg-id="TVOsaka.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Local",TV Osaka
 http://50.7.74.29:8080/hlsok/j00013/index.m3u8
 
 #EXTINF:-1 tvg-id="TVTokyo.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="Local",TV Tokyo
-http://50.7.74.29:8080/hls/j00012/index.m3u8
+http://50.7.74.29:8080/hlsok/j00012/index.m3u8
 
 #EXTINF:-1 tvg-id="WeatherNews.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="Weather",Weather News
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
