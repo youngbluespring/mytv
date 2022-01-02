@@ -70,11 +70,11 @@ http://50.7.74.29:8080/hlsok/j00037/index.m3u8
 #EXTINF:-1 tvg-id="NHKBSP.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",NHK BSP
 http://50.7.74.29:8080/hlsok/j00036/index.m3u8
 
-#EXTINF:-1 tvg-id="NHKGTokyo.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",NHK G Tokyo
-http://50.7.74.29:8080/hlsok/j00033/index.m3u8
-
 #EXTINF:-1 tvg-id="NHKE.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Education",NHK E
 http://50.7.74.29:8080/hlsok/j00034/index.m3u8
+
+#EXTINF:-1 tvg-id="NHKGTokyo.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",NHK G
+http://50.7.74.29:8080/hlsok/j00033/index.m3u8
 
 #EXTINF:-1 tvg-id="NipponTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/202.png" group-title="",Nippon TV
 http://50.7.74.29:8080/hlsok/j00004/index.m3u8
