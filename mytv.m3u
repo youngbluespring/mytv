@@ -14,7 +14,7 @@ https://sub2.neetball.net/live/neet.m3u8
 #EXTINF:-1 tvg-id="CONtvAnime.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893" group-title="Animation",CONtv Anime
 https://contvanime-localnow.cinedigm.com/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-chno="830" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="USA",Pluto TV Anime All Day
+#EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="USA",Pluto TV Anime All Day
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="PlutoTVTokuSHOUTsu.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="Series",Pluto TV TokuSHOUTsu
@@ -326,7 +326,7 @@ http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="" group-title="",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6176ff3ba00900000763710f" tvg-chno="189" tvg-logo="https://images.pluto.tv/channels/6176ff3ba00900000763710f/colorLogoPNG.png" group-title="Entertainment",K-Content by CJ ENM
+#EXTINF:-1 tvg-id="6176ff3ba00900000763710f" tvg-logo="https://images.pluto.tv/channels/6176ff3ba00900000763710f/colorLogoPNG.png" group-title="Entertainment",K-Content by CJ ENM
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176ff3ba00900000763710f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="KCTV.kp" tvg-country="KP" tvg-language="Korean" tvg-logo="https://i.imgur.com/rEn31ub.png" group-title="News",KCTV
