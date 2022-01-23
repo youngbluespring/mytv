@@ -5,9 +5,6 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 <!-- Anime -->
 
-#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Animation",Animax Japan
-http://50.7.74.29:8080/hls/j00026/index.m3u8
-
 #EXTINF:-1 tvg-id="ATX.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.at-x.com/favicon_android.png" group-title="Animation",AT-X
 https://sub2.neetball.net/live/neet.m3u8
 
@@ -23,103 +20,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b99
 #EXTINF:-1 tvg-id="RetroCrush.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjQwMDkzNDRf/RetroCrush_576x576.png" group-title="",RetroCrush
 https://digitalmediarights-retrocrush-1.sinclair.wurl.com/manifest/playlist.m3u8
 
-<!-- Japan -->
-
-#EXTINF:-1 tvg-id="BSAsahi.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",BS Asahi
-http://50.7.74.29:8080/hlsok/j00048/index.m3u8
-
-#EXTINF:-1 tvg-id="BSFujiTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",BS Fuji TV
-http://50.7.74.29:8080/hlsok/j00049/index.m3u8
-
-#EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",BS Nippon TV
-http://50.7.74.29:8080/hlsok/j00047/index.m3u8
-
-#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",BS TV Tokyo
-http://50.7.74.29:8080/hlsok/j00050/index.m3u8
-
-#EXTINF:-1 tvg-id="BSTBS.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",BS TBS
-http://50.7.74.29:8080/hlsok/j00051/index.m3u8
-
-#EXTINF:-1 tvg-id="FujiTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",Fuji TV
-http://50.7.74.29:8080/hlsok/j00010/index.m3u8
-
-#EXTINF:-1 tvg-id="GAORA.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",GAORA
-http://50.7.74.29:8080/hls/j00045/index.m3u8
-
-#EXTINF:-1 tvg-id="GunmaTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/800px-Gtv_logo_ja_01.svg.png" group-title="Local",Gunma TV
-https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
-
-#EXTINF:-1 tvg-id="JSports1.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Sports",J Sports 1
-http://50.7.74.29:8080/hlsok/j00042/index.m3u8
-
-#EXTINF:-1 tvg-id="JSports2.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Sports",J Sports 2
-http://50.7.74.29:8080/hlsok/j00041/index.m3u8
-
-#EXTINF:-1 tvg-id="JSports3.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Sports",J Sports 3
-http://50.7.74.29:8080/hlsok/j00040/index.m3u8
-
-#EXTINF:-1 tvg-id="JSports4.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Sports",J Sports 4
-http://50.7.74.29:8080/hlsok/j00039/index.m3u8
-
-#EXTINF:-1 tvg-id="KansaiTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Local",Kansai TV
-http://50.7.74.29:8080/hlsok/j00006/index.m3u8
-
-#EXTINF:-1 tvg-id="NHKBS1.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",NHK BS1
-http://50.7.74.29:8080/hlsok/j00037/index.m3u8
-
-#EXTINF:-1 tvg-id="NHKBSP.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",NHK BSP
-http://50.7.74.29:8080/hlsok/j00036/index.m3u8
-
-#EXTINF:-1 tvg-id="NHKE.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Education",NHK E
-http://50.7.74.29:8080/hlsok/j00034/index.m3u8
-
-#EXTINF:-1 tvg-id="NHKGTokyo.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",NHK G
-http://50.7.74.29:8080/hlsok/j00033/index.m3u8
-
-#EXTINF:-1 tvg-id="NipponTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/202.png" group-title="",Nippon TV
-http://50.7.74.29:8080/hlsok/j00004/index.m3u8
-
-#EXTINF:-1 tvg-id="NTVNews24.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="News",NTV News24
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-
-#EXTINF:-1 tvg-id="Star1.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",Star 1
-http://50.7.74.29:8080/hlsok/j00019/index.m3u8
-
-#EXTINF:-1 tvg-id="Star2.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",Star 2
-http://50.7.74.29:8080/hlsok/j00018/index.m3u8
-
-#EXTINF:-1 tvg-id="Star3.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",Star 3
-http://50.7.74.29:8080/hlsok/j00017/index.m3u8
-
-#EXTINF:-1 tvg-id="TBS.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",TBS
-http://50.7.74.29:8080/hlsok/j00031/index.m3u8
-
-#EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Local",Tokyo MX1
-http://50.7.74.29:8080/hlsok/j00030/index.m3u8
-
-#EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Local",Tokyo MX2
-https://movie.mcas.jp/mcas/mx2_2/master.m3u8
-
-#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Local",TV Asahi
-http://50.7.74.29:8080/hlsok/j00014/index.m3u8
-
-#EXTINF:-1 tvg-id="TVOsaka.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Local",TV Osaka
-http://50.7.74.29:8080/hlsok/j00013/index.m3u8
-
-#EXTINF:-1 tvg-id="TVTokyo.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="Local",TV Tokyo
-http://50.7.74.29:8080/hlsok/j00012/index.m3u8
-
-#EXTINF:-1 tvg-id="WeatherNews.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="Weather",Weather News
-https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-
 <!-- Philippines -->
 
 #EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="",CCTN 47
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="",CLTV 36
-#EXTVLCOPT:http-referrer=https://ssh101.com/
-https://tna5.bozztv.com/cltv36/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Philippines" tvg-country="PH" tvg-language="Filipino" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" tvg-url="" group-title="",GMA Pinoy TV
 http://s2.pandatv.tn:8000/live/131495913257/04003169/62878.ts
@@ -138,9 +42,6 @@ http://s2.pandatv.tn:8000/live/131495913257/04003169/62879.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Net 25" tvg-logo="https://cms.cignal.tv/Upload/Images/NET%2025.png" group-title="Free-To-Air",Net 25
 https://streaming.fotvnetwork.workers.dev/stream/UC5IF8NlxMW1GkEUUqWJJBIw/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Philippines" tvg-country="PH" tvg-language="Filipino" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/1200px-DZBB594.svg.png" group-title="News",Super Radyo DZBB
-http://stream.gmanews.tv/ioslive/livestream/playlist.m3u
 
 #EXTINF:-1 tvg-id="TeleRadyo.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yxKb7yF.jpg" group-title="",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
@@ -317,12 +218,6 @@ https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 
 <!-- Korea -->
 
-#EXTINF:-1 tvg-name="EBS 1" tvg-logo="https://i.imgur.com/s1y2zoe.png" group-title="Korea",EBS 1
-http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
-
-#EXTINF:-1 tvg-name="EBS 2" tvg-logo="https://i.imgur.com/7K7zmoE.png" group-title="Korea",EBS 2
-http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="" group-title="",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 
@@ -357,104 +252,6 @@ http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TDMMacauSatelite.mo" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/59lAsao.png" group-title="",TDM Macau World
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
-
-<!-- China -->
-
-#EXTINF:-1 tvg-id="CCTV1.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="General",CCTV-1
-http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
-
-#EXTINF:-1 tvg-id="CCTV2.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="",CCTV-2
-http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
-
-#EXTINF:-1 tvg-id="CCTV3.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="Entertainment",CCTV-3
-http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
-
-#EXTINF:-1 tvg-id="CCTV4.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" group-title="General",CCTV-4
-http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
-
-#EXTINF:-1 tvg-id="CCTV5.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="Sports",CCTV-5
-http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
-
-#EXTINF:-1 tvg-id="CCTV6.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="Movies",CCTV-6
-http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
-
-#EXTINF:-1 tvg-id="CCTV7.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" group-title="",CCTV-7
-http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
-
-#EXTINF:-1 tvg-id="CCTV8.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="",CCTV-8
-http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
-
-#EXTINF:-1 tvg-id="CCTV9.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="Documentary",CCTV-9
-http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
-
-#EXTINF:-1 tvg-id="CCTV10.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="Education",CCTV-10
-http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
-
-#EXTINF:-1 tvg-id="CCTV11.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="",CCTV-11
-http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
-
-#EXTINF:-1 tvg-id="CCTV12.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="",CCTV-12
-http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
-
-#EXTINF:-1 tvg-id="CCTV13.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="News",CCTV-13
-http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
-
-#EXTINF:-1 tvg-id="CCTV15.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Music",CCTV-15
-http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=54&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-
-#EXTINF:-1 tvg-id="CCTV17.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",CCTV-17
-http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
-
-#EXTINF:-1 tvg-id="AnHuiWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png" group-title="",Anhui TV
-http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8
-
-#EXTINF:-1 tvg-id="BeiJingWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/bjbtv.jpg" group-title="",Beijing TV
-http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
-
-#EXTINF:-1 tvg-id="BingTuanWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/bingtuantv.jpg" group-title="",Bingtuan TV
-http://112.25.48.68/live/program/live/btws/1300000/mnf.m3u8
-
-#EXTINF:-1 tvg-id="ChongQingWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/chongqing.jpg" group-title="",Chongqing TV
-http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
-
-#EXTINF:-1 tvg-id="DongNanWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",Fujian TV
-http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
-
-#EXTINF:-1 tvg-id="GuangDongWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/guangdong.jpg" group-title="",Guangdong TV
-http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
-
-#EXTINF:-1 tvg-id="GuangZhouYingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",Guangzhou TV
-http://149.129.100.78/gztv.php?id=yingshi
-
-#EXTINF:-1 tvg-id="HuNanWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="",Hunan TV
-http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
-
-#EXTINF:-1 tvg-id="JiangSuWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png" group-title="",Jiangsu TV
-http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
-
-#EXTINF:-1 tvg-id="ShangHaiWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",Shanghai TV
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-dongfangstv/HD-2500k-1080P-dongfangstv
-
-#EXTINF:-1 tvg-id="ShenZhenWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",Shenzhen TV
-http://39.134.39.39/PLTV/88888888/224/3221226199/index.m3u8
-
-#EXTINF:-1 tvg-id="SiChuanWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebb7c2f272.png" group-title="",Sichuan TV
-http://scgctvshow.sctv.com/scgc/sctv1deu5453w/1.m3u8
-
-#EXTINF:-1 tvg-id="TianJinWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/TJWS.png" group-title="",Tianjin TV
-http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
-
-#EXTINF:-1 tvg-id="ShaMenWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/XMWS.png" group-title="",Xiamen TV
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
-
-#EXTINF:-1 tvg-id="XinJiangWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",Xinjiang TV
-http://39.134.66.66/PLTV/88888888/224/3221225582/index.m3u8
-
-#EXTINF:-1 tvg-id="YanBianWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="",Yanbian TV
-http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-
-#EXTINF:-1 tvg-id="ZheJiangWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="",Zhejiang TV
-http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
 
 <!-- Europe -->
 
