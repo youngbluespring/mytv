@@ -66,9 +66,6 @@ https://bloomberg-quicktake-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNEnglish.cn" tvg-country="CN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" group-title="News",CGTN
 https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-country="CN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary",CGTN Documentary
-http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
-
 #EXTINF:-1 tvg-id="CNA.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/225px-CNA_new_logo.svg.png" group-title="News",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
