@@ -87,8 +87,8 @@ https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-id="Cocoro.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Z4hIjPn.jpg" group-title="Kids",Cocoro
 https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ComedyDynamics_640x640.png" group-title="Comedy",Comedy Dynamics
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/master.m3u8
+#EXTINF:-1 tvg-id="USAJ4300004PC" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/75/USAJ4300004PC20200730102745.png" group-title="USA",Comedy Dynamics
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/cinedigm-samsung-comedy-dynamics-clean/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-id="CONtv.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa07ec3fc8cbc647f034483" group-title="Entertainment",CONtv
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
