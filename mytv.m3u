@@ -122,6 +122,9 @@ https://479cc5aa923d4f399f440d76bc53da92.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="BloodyDisgusting.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602dd011302f4d7da05d4bf3" group-title="Movies",Bloody Disgusting
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
 
+#EXTINF:-1 tvg-id="STIRRCinehouse.us" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/soWUYAlbr7JPirYYf-65YApRsk0X_OXlGZ36_0A4KnmmWf7n7PwvjxdBK6iK5LrqkCJD" group-title="Entertainment",Cinehouse
+https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
+
 #EXTINF:-1 tvg-id="Cocoro.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Z4hIjPn.jpg" group-title="Kids",Cocoro
 https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
 
