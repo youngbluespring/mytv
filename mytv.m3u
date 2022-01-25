@@ -14,11 +14,11 @@ https://contvanime-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="USA",Pluto TV Anime All Day
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="PlutoTVTokuSHOUTsu.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="Series",Pluto TV TokuSHOUTsu
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c3f8f12a93c2d61b9990a4e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=848&terminate=false&userId=
-
 #EXTINF:-1 tvg-id="RetroCrush.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjQwMDkzNDRf/RetroCrush_576x576.png" group-title="",RetroCrush
 https://digitalmediarights-retrocrush-1.sinclair.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="USA",TokuSHOUTsu
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 <!-- Philippines -->
 
@@ -60,8 +60,14 @@ https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-telerad
 
 <!-- Entertainment - Cinedigm -->
 
+#EXTINF:-1 tvg-id="USAJ2200008NR" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/35/USAJ2200008NR20200730102745.png" group-title="USA",Asian Crush
+https://479cc5aa923d4f399f440d76bc53da92.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AsianCrush/playlist.m3u8?ads.wurl_channel=269&ads.wurl_name=AsianCrush&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
 #EXTINF:-1 tvg-id="BloodyDisgusting.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602dd011302f4d7da05d4bf3" group-title="Movies",Bloody Disgusting
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cocoro.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Z4hIjPn.jpg" group-title="Kids",Cocoro
+https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ComedyDynamics_640x640.png" group-title="Comedy",Comedy Dynamics
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/master.m3u8
@@ -78,8 +84,14 @@ https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
 #EXTINF:-1 tvg-id="LoneStar.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzMxMzM1NzJf/LoneStar_250x250.png" group-title="Classic",Lone Star
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="externallinearfeed-06-26-2020-193305392-06-26-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/e3dc9f24-24d1-439b-a44a-7500e70c66a9-large16x9_STIRR_0721_EPG_MidnightPulp_1920x1080.png?1625778768218?cb=c4ca4238a0b923820dcc509a6f75849b",Midnight Pulp
+https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8
+
 #EXTINF:-1 tvg-id="MyTimemovienetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Movies",MyTime Movie Network
 https://mytime-roku-ingest.cinedigm.com/playlist.m3u8
+
+#EXTINF:-1 channel-id="stirr-externallinearfeed-03-08-2019-03-08-2019" tvg-id="externallinearfeed-03-08-2019-03-08-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/b4cfe7fb-8c1d-4a32-b5b5-cf6a0ce8fe15-large16x9_STIRR_0721_EPG_ShoutFactoryTV_1920x1080.png?1625867516430?cb=c4ca4238a0b923820dcc509a6f75849b",Shout Factory
+https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
 
 #EXTINF:-1 tvg-id="SoReal.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5ODE2MDdf/SoReal_240x240.png" group-title="Lifestyle",So... Real
 https://soreal-tcl.amagi.tv/playlist.m3u8
@@ -93,10 +105,7 @@ https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8
 #EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X7NV3X1.png" group-title="Movies",The Film Detective
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 
-<!-- Entertainment - Stirr & Cinedigm -->
-
-#EXTINF:-1 tvg-id="USAJ2200008NR" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/35/USAJ2200008NR20200730102745.png" group-title="USA",Asian Crush
-https://479cc5aa923d4f399f440d76bc53da92.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AsianCrush/playlist.m3u8?ads.wurl_channel=269&ads.wurl_name=AsianCrush&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+<!-- Entertainment - US Free TV -->
 
 #EXTINF:-1 channel-id="stirr-externallinearfeed-05-18-2020-05-18-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/5a5fb613-57d3-4c3e-8aaf-50799a508abf-large16x9_STIRR_0721_EPG_Buzzr_1920x1080.png?1625778767348?cb=c4ca4238a0b923820dcc509a6f75849b",Buzzr
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
@@ -104,14 +113,8 @@ https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-id="externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/48c80649-8389-4512-8af0-90119f1c4deb-large16x9_STIRR_0721_EPG_Charge_1920x1080.png?1625778767225?cb=c4ca4238a0b923820dcc509a6f75849b",Charge
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 
-#EXTINF:-1 tvg-id="Cocoro.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Z4hIjPn.jpg" group-title="Kids",Cocoro
-https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
-
 #EXTINF:-1 channel-id="stirr-externallinearfeed-05-21-2019-05-21-2019" tvg-id="externallinearfeed-05-21-2019-05-21-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/605fc5e4-f6a7-4863-b050-ed1e305325dd-large16x9_STIRR_0721_EPG_Comet_1920x1080.png?1625778767251?cb=c4ca4238a0b923820dcc509a6f75849b",Comet
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
-
-#EXTINF:-1 tvg-id="externallinearfeed-06-26-2020-193305392-06-26-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/e3dc9f24-24d1-439b-a44a-7500e70c66a9-large16x9_STIRR_0721_EPG_MidnightPulp_1920x1080.png?1625778768218?cb=c4ca4238a0b923820dcc509a6f75849b",Midnight Pulp
-https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8
 
 #EXTINF:-1 channel-id="stirr-stadium" tvg-id="stadium" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/52d98c60-8eaa-4a8c-83e7-979be8489efb-large16x9_STIRR_0721_EPG_Stadium_1920x1080.png?1625778768845?cb=c4ca4238a0b923820dcc509a6f75849b",Stadium 
 https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
