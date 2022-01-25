@@ -5,6 +5,9 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 <!-- Anime -->
 
+#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Animation",Animax Japan
+http://50.7.74.29:8880/hls/j00026/index.m3u8
+
 #EXTINF:-1 tvg-id="ATX.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.at-x.com/favicon_android.png" group-title="Animation",AT-X
 https://sub2.neetball.net/live/neet.m3u8
 
