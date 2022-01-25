@@ -76,6 +76,11 @@ https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 #EXTINF:-1 tvg-id="TeleRadyo.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yxKb7yF.jpg" group-title="",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
 
+<!-- Entertainment - USA -->
+
+#EXTINF:-1 tvg-id="Revry.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3" group-title="Lifestyle",Revry (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-revryxumo/CDN/master.m3u8
+
 <!-- Entertainment - Cinedigm -->
 
 #EXTINF:-1 tvg-id="USAJ2200008NR" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/35/USAJ2200008NR20200730102745.png" group-title="USA",Asian Crush
