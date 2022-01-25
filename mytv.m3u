@@ -3,6 +3,36 @@
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
+#EXTINF:-1 tvg-id="NHKGTokyo.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",NHK G
+http://50.7.74.29:8880/hls/j00033/index.m3u8
+
+#EXTINF:-1 tvg-id="NHKE.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Education",NHK E
+http://50.7.74.29:8880/hls/j00035/index.m3u8
+
+#EXTINF:-1 tvg-id="FujiTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",Fuji TV
+http://50.7.74.29:8880/hlsok/j00010/index.m3u8
+
+#EXTINF:-1 tvg-id="NipponTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/202.png" group-title="",Nippon TV
+http://50.7.74.29:8880/hls/j00004/index.m3u8
+
+#EXTINF:-1 tvg-id="TBS.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",TBS
+http://50.7.74.29:8880/hlsok/j00031/index.m3u8
+
+#EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Local",Tokyo MX1
+https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+
+#EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Local",Tokyo MX2
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+
+#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Local",TV Asahi
+http://50.7.74.29:8880/hls/j00014/index.m3u8
+
+#EXTINF:-1 tvg-id="TVTokyo.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="Local",TV Tokyo
+http://50.7.74.29:8880/hls/j00012/index.m3u8
+
+#EXTINF:-1 tvg-id="WeatherNews.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="Weather",Weather News
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+
 <!-- Anime -->
 
 #EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Animation",Animax Japan
