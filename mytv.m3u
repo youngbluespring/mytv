@@ -109,10 +109,35 @@ https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 #EXTINF:-1 tvg-id="TeleRadyo.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yxKb7yF.jpg" group-title="",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
 
-<!-- Entertainment - USA -->
+<!-- Entertainment - US Free TV -->
+
+#EXTINF:-1 channel-id="stirr-externallinearfeed-05-18-2020-05-18-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/5a5fb613-57d3-4c3e-8aaf-50799a508abf-large16x9_STIRR_0721_EPG_Buzzr_1920x1080.png?1625778767348?cb=c4ca4238a0b923820dcc509a6f75849b",Buzzr
+https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
+
+#EXTINF:-1 channel-id="stirr-externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-id="externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/48c80649-8389-4512-8af0-90119f1c4deb-large16x9_STIRR_0721_EPG_Charge_1920x1080.png?1625778767225?cb=c4ca4238a0b923820dcc509a6f75849b",Charge
+https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
+
+#EXTINF:-1 tvg-id="Circle.us" tvg-country="US" tvg-language="English" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjY2MjYwMTlf?inline=1" group-title="Entertainment",Circle
+https://circle-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="stirr-externallinearfeed-05-21-2019-05-21-2019" tvg-id="externallinearfeed-05-21-2019-05-21-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/605fc5e4-f6a7-4863-b050-ed1e305325dd-large16x9_STIRR_0721_EPG_Comet_1920x1080.png?1625778767251?cb=c4ca4238a0b923820dcc509a6f75849b",Comet
+https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
+
+#EXTINF:-1 tvg-id="WLIWDT2.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/1920px-Create_TV_network_logo.svg.png" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Entertainment",Create TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://v-ny.theus6tv.tk/hls/21.2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Revry.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3" group-title="Lifestyle",Revry
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-revryxumo/CDN/master.m3u8
+
+#EXTINF:-1 channel-id="stirr-stadium" tvg-id="stadium" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/52d98c60-8eaa-4a8c-83e7-979be8489efb-large16x9_STIRR_0721_EPG_Stadium_1920x1080.png?1625778768845?cb=c4ca4238a0b923820dcc509a6f75849b",Stadium 
+https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
+
+#EXTINF:-1 channel-id="stirr-externallinearfeed-05-22-2019-05-22-2019" tvg-id="externallinearfeed-05-22-2019-05-22-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/4d6f1832-f55a-4d68-a274-a984e86c7a2f-large16x9_STIRR_0721_EPG_TBD_1920x1080.png?1625778768201?cb=c4ca4238a0b923820dcc509a6f75849b",TBD
+https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
+
+#EXTINF:-1 tvg-id="WorldChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBSWorld_972x972.png?raw=true" group-title="Education",World
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 
 <!-- Entertainment - Cinedigm -->
 
@@ -163,23 +188,6 @@ https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8
 
 #EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X7NV3X1.png" group-title="Movies",The Film Detective
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
-
-<!-- Entertainment - US Free TV -->
-
-#EXTINF:-1 channel-id="stirr-externallinearfeed-05-18-2020-05-18-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/5a5fb613-57d3-4c3e-8aaf-50799a508abf-large16x9_STIRR_0721_EPG_Buzzr_1920x1080.png?1625778767348?cb=c4ca4238a0b923820dcc509a6f75849b",Buzzr
-https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
-
-#EXTINF:-1 channel-id="stirr-externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-id="externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/48c80649-8389-4512-8af0-90119f1c4deb-large16x9_STIRR_0721_EPG_Charge_1920x1080.png?1625778767225?cb=c4ca4238a0b923820dcc509a6f75849b",Charge
-https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
-
-#EXTINF:-1 channel-id="stirr-externallinearfeed-05-21-2019-05-21-2019" tvg-id="externallinearfeed-05-21-2019-05-21-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/605fc5e4-f6a7-4863-b050-ed1e305325dd-large16x9_STIRR_0721_EPG_Comet_1920x1080.png?1625778767251?cb=c4ca4238a0b923820dcc509a6f75849b",Comet
-https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
-
-#EXTINF:-1 channel-id="stirr-stadium" tvg-id="stadium" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/52d98c60-8eaa-4a8c-83e7-979be8489efb-large16x9_STIRR_0721_EPG_Stadium_1920x1080.png?1625778768845?cb=c4ca4238a0b923820dcc509a6f75849b",Stadium 
-https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
-
-#EXTINF:-1 channel-id="stirr-externallinearfeed-05-22-2019-05-22-2019" tvg-id="externallinearfeed-05-22-2019-05-22-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/4d6f1832-f55a-4d68-a274-a984e86c7a2f-large16x9_STIRR_0721_EPG_TBD_1920x1080.png?1625778768201?cb=c4ca4238a0b923820dcc509a6f75849b",TBD
-https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
 
 <!-- News -->
 
