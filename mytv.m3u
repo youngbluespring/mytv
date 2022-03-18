@@ -25,35 +25,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c3f8f12a93c2d61b9990a
 
 <!-- Philippines -->
 
-#EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="",CCTN 47
-http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
-
 #EXTINF:-1,CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
 
 #EXTINF:-1,DZBB
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?checkedby:iptvcat.net
 
-#EXTINF:-1 tvg-id="" tvg-name="Philippines" tvg-country="PH" tvg-language="Filipino" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" tvg-url="" group-title="",GMA Pinoy TV
-http://s2.pandatv.tn:8000/live/131495913257/04003169/62878.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Philippines" tvg-country="PH" tvg-language="Filipino" tvg-logo="https://logos.fandom.com/wiki/GMA_Life_TV?file=Gma-life-tv-first-logo.jpg" tvg-url="" group-title="",GMA Life TV
-http://s2.pandatv.tn:8000/live/131495913257/04003169/62876.ts
-
-#EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="",GMA News TV
-http://s2.pandatv.tn:8000/live/131495913257/04003169/62877.ts
-
-#EXTINF:-1 tvg-id="INCTV.ph" tvg-country="PH" tvg-language="" tvg-logo="https://i.imgur.com/FcLAaMT.png" group-title="",INC TV
-http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="PH" tvg-language="" tvg-logo="https://i.imgur.com/FcLAaMT.png" group-title="",Kapatid TV5
-http://s2.pandatv.tn:8000/live/131495913257/04003169/62879.ts
-
 #EXTINF:-1,Life TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Net 25" tvg-logo="https://cms.cignal.tv/Upload/Images/NET%2025.png" group-title="Free-To-Air",Net 25
-https://streaming.fotvnetwork.workers.dev/stream/UC5IF8NlxMW1GkEUUqWJJBIw/master.m3u8
 
 #EXTINF:-1,SMNI
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
