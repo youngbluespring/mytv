@@ -3,36 +3,6 @@
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-#EXTINF:-1 tvg-id="NHKGTokyo.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",NHK G
-http://50.7.74.29:8880/hls/j00033/index.m3u8
-
-#EXTINF:-1 tvg-id="NHKE.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Education",NHK E
-http://50.7.74.29:8880/hls/j00035/index.m3u8
-
-#EXTINF:-1 tvg-id="FujiTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",Fuji TV
-http://50.7.74.29:8880/hlsok/j00010/index.m3u8
-
-#EXTINF:-1 tvg-id="NipponTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/202.png" group-title="",Nippon TV
-http://50.7.74.29:8880/hls/j00004/index.m3u8
-
-#EXTINF:-1 tvg-id="TBS.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",TBS
-http://50.7.74.29:8880/hlsok/j00031/index.m3u8
-
-#EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Local",Tokyo MX1
-https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
-
-#EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Local",Tokyo MX2
-https://movie.mcas.jp/mcas/mx2_2/master.m3u8
-
-#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Local",TV Asahi
-http://50.7.74.29:8880/hls/j00014/index.m3u8
-
-#EXTINF:-1 tvg-id="TVTokyo.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="Local",TV Tokyo
-http://50.7.74.29:8880/hls/j00012/index.m3u8
-
-#EXTINF:-1 tvg-id="WeatherNews.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="Weather",Weather News
-https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-
 <!-- Anime -->
 
 #EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Animation",Animax Japan
@@ -44,32 +14,14 @@ https://sub2.neetball.net/live/neet.m3u8
 #EXTINF:-1 tvg-id="CONtvAnime.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893" group-title="Animation",CONtv Anime
 https://contvanime-localnow.cinedigm.com/playlist.m3u8
 
-#EXTINF:-1 channel-id="pluto-5f186626dcd00d0007936443" tvg-id="5f186626dcd00d0007936443" tvg-logo="https://images.pluto.tv/channels/5f186626dcd00d0007936443/colorLogoPNG.png" group-title="Gaming + Anime",GameSpot
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f186626dcd00d0007936443/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 channel-id="pluto-561c5f613286e48904fb2677" tvg-id="561c5f613286e48904fb2677" tvg-logo="https://images.pluto.tv/channels/561c5f613286e48904fb2677/colorLogoPNG.png" group-title="Gaming + Anime",IGN
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 channel-id="pluto-5da0c85bd2c9c10009370984" tvg-id="5da0c85bd2c9c10009370984" tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" group-title="Gaming + Anime",Naruto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 channel-id="pluto-5f7790b3ed0c88000720b241" tvg-id="5f7790b3ed0c88000720b241" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG.png" group-title="Gaming + Anime",One Piece
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="USA",Pluto TV Anime All Day
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 channel-id="pluto-5ca7f16c37b88b2694731c79" tvg-id="5ca7f16c37b88b2694731c79" tvg-logo="https://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG.png" group-title="Gaming + Anime",Pluto TV Gamer
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="RetroCrush.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjQwMDkzNDRf/RetroCrush_576x576.png" group-title="",RetroCrush
 https://digitalmediarights-retrocrush-1.sinclair.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="USA",TokuSHOUTsu
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 channel-id="pluto-5f4ec10ed9636f00089b8c89" tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" group-title="Gaming + Anime",Yu-Gi-Oh!
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 <!-- Philippines -->
 
