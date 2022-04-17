@@ -3,6 +3,26 @@
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" group-title="General",NHK G
+https://nhk2.mov3.co/hls/nhk.m3u8
+
+#EXTINF:-1 tvg-id="FujiTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Undefined",Fuji TV
+https://fujitv2.mov3.co/hls/fujitv.m3u8
+
+#EXTINF:-1 tvg-id="NipponTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/202.png" group-title="Undefined",Nippon TV
+https://ntv2.mov3.co/hls/ntv.m3u8
+
+#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png" group-title="Undefined",TBS
+https://tbs1.mov3.co/hls/tbs.m3u8
+
+#EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/512px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Undefined",Tokyo MX1
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+
+#EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/512px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Undefined",Tokyo MX2
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+
+#EXTINF:-1 tvg-id="WeatherNews.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="Weather",WNI
+
 <!-- Anime -->
 
 #EXTINF:-1 tvg-id="ATX.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.at-x.com/favicon_android.png" group-title="Animation",AT-X
