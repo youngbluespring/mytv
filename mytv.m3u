@@ -22,6 +22,7 @@ https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 
 #EXTINF:-1 tvg-id="WeatherNews.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="Weather",WNI
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 
 <!-- Anime -->
 
