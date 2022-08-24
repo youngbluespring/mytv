@@ -104,9 +104,6 @@ https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=2600000
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="News",Euronews
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France24English.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="" group-title="",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 
