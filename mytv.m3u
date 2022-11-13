@@ -88,6 +88,9 @@ https://479cc5aa923d4f399f440d76bc53da92.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 channel-id="samsung-USBB2900001P9" tvg-id="USBB2900001P9" tvg-chno="1290" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/20/USBB2900001P9_20220330T044822.png" group-title="International",CJ ENM
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
+#EXTINF:-1 tvg-id="KBSWorld.kr" status="online",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
 #EXTINF:-1 tvg-id="KCTV.kp" tvg-country="KP" tvg-language="Korean" tvg-logo="https://i.imgur.com/rEn31ub.png" group-title="News",KCTV
 https://tv.nknews.org/tvdash/stream.mpd
 
@@ -95,6 +98,12 @@ https://tv.nknews.org/tvdash/stream.mpd
 
 #EXTINF:-1 tvg-id="CNA.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/225px-CNA_new_logo.svg.png" group-title="News",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-id="RTHKTV31.hk" status="online",RTHK 31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+
+#EXTINF:-1 tvg-id="RTHKTV32.hk" status="online",RTHK 32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 
 #EXTINF:-1 tvg-id="TDMMacau.mo" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="",TDM Ou Mun
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
