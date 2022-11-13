@@ -25,23 +25,26 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TVMar
 
 <!-- Japan -->
 
-#EXTINF:-1 tvg-id="FujiTV.jp" status="online",Fuji TV
-https://fujitv2.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" status="online",NHK G
+http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
 
-#EXTINF:-1 tvg-id="GunmaTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/512px-Gtv_logo_ja_01.svg.png" group-title="Undefined",Gunma TV
-https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+#EXTINF:-1 tvg-id="NHKEducationalTV.jp" status="online",NHK E
+http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
+
+#EXTINF:-1 tvg-id="JOCXDTV.jp" status="online",Fuji TV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 
 #EXTINF:-1 tvg-id="NipponTV.jp" status="online",Nippon TV
-https://ntv2.mov3.co/hls/ntv.m3u8
+http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
 
-#EXTINF:-1 tvg-id="NTVNews24.jp" status="online",NTV News24
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuTAXTexrhetbOe3zgskJBQ/live
+#EXTINF:-1 tvg-id="JORXDTV.jp" status="online",TBS
+http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
 
-#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png" group-title="Undefined",TBS
-https://tbs1.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 tvg-id="TVAsahi.jp" status="online",TV Asahi
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 
-#EXTINF:-1 tvg-id="TBSNews.jp" status="online",TBS News
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA/live
+#EXTINF:-1 tvg-id="JOTXDTV.jp" status="online",TV Tokyo
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TokyoMX1.jp" status="online",Tokyo MX1
 https://movie.mcas.jp/mcas/mx1_2/master.m3u8
@@ -82,6 +85,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94c
 
 <!-- Korea -->
 
+#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" group-title="Korea",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
 #EXTINF:-1 channel-id="samsung-USAJ2200008NR" tvg-id="USAJ2200008NR" tvg-chno="1293" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/35/USAJ2200008NR_20220525T025955.png" group-title="International",Asian Crush
 https://479cc5aa923d4f399f440d76bc53da92.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AsianCrush/playlist.m3u8?ads.wurl_channel=269&ads.wurl_name=AsianCrush&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
@@ -94,40 +100,10 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KCTV.kp" tvg-country="KP" tvg-language="Korean" tvg-logo="https://i.imgur.com/rEn31ub.png" group-title="News",KCTV
 https://tv.nknews.org/tvdash/stream.mpd
 
-#EXTINF:-1 channel-id="samsung-USAJ30000122O" tvg-id="USAJ30000122O" tvg-chno="1295" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/USAJ30000122O_20220621T075904.png" group-title="International",NEW KMOVIES
-https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-#EXTINF:-1 channel-id="samsung-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-chno="1296" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/40/USAJ3000013FJ_20220621T075908.png" group-title="International",NEW KPOP
-https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-<!-- International -->
-
-#EXTINF:-1 tvg-id="" tvg-country="AU" tvg-language="" tvg-logo="" group-title="Undefined",ABC ME
-https://c.mjh.nz/101002210224
-
-#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Undefined",ABC TV
-https://c.mjh.nz/3201026102E1
-
-#EXTINF:-1 tvg-id="ABCTVPlus.au" tvg-country="AU" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/512px-ABC_TV_Plus_logo_2021.svg.png" group-title="Undefined",ABC TV Plus
-https://c.mjh.nz/abc2
-
-#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" group-title="Korea",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1 channel-id=""pluto-54ff7ba69222cb1c2624c584"" tvg-id=""54ff7ba69222cb1c2624c584"" tvg-logo=""https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG.png"" group-title=""News"",Bloomberg TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+<!-- SEA, HK & Macau -->
 
 #EXTINF:-1 tvg-id="CNA.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/225px-CNA_new_logo.svg.png" group-title="News",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",EbS
-https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",EbS+
-https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=2600000.m3u8
 
 #EXTINF:-1 tvg-id="TDMMacau.mo" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="",TDM Ou Mun
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
@@ -146,3 +122,28 @@ http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AoMenZongYi.mo" tvg-country="MO" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TDM_Entertainment.png/640px-TDM_Entertainment.png" group-title="",TDM Entertainment
 http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
+
+<!-- Australia -->
+
+#EXTINF:-1 tvg-id="" tvg-country="AU" tvg-language="" tvg-logo="" group-title="Undefined",ABC ME
+https://c.mjh.nz/101002210224
+
+#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Undefined",ABC TV
+https://c.mjh.nz/3201026102E1
+
+#EXTINF:-1 tvg-id="ABCTVPlus.au" tvg-country="AU" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/512px-ABC_TV_Plus_logo_2021.svg.png" group-title="Undefined",ABC TV Plus
+https://c.mjh.nz/abc2
+
+<!-- Europe -->
+
+#EXTINF:-1 tvg-id="DasErste.de" status="timeout",Das Erste
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",EbS
+https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",EbS+
+https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=2600000.m3u8
