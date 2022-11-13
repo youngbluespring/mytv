@@ -77,12 +77,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c3f8f12a93c2d61b9990a
 
 <!-- Kids -->
 
-#EXTINF:-1 channel-id="pluto-5ca6748a37b88b269472dad9" tvg-id="5ca6748a37b88b269472dad9" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="Kids",Nick Jr. Pluto TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN
-
-#EXTINF:-1 channel-id="pluto-5ca673e0d0bd6c2689c94ce3" tvg-id="5ca673e0d0bd6c2689c94ce3" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="Kids",Nick Pluto TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN
-
 <!-- Korea -->
 
 #EXTINF:-1 tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" group-title="Korea",Arirang
@@ -93,9 +87,6 @@ https://479cc5aa923d4f399f440d76bc53da92.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 channel-id="samsung-USBB2900001P9" tvg-id="USBB2900001P9" tvg-chno="1290" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/20/USBB2900001P9_20220330T044822.png" group-title="International",CJ ENM
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="" group-title="",KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KCTV.kp" tvg-country="KP" tvg-language="Korean" tvg-logo="https://i.imgur.com/rEn31ub.png" group-title="News",KCTV
 https://tv.nknews.org/tvdash/stream.mpd
