@@ -31,6 +31,9 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
 #EXTINF:-1 tvg-id="NHKEducationalTV.jp" status="online",NHK E
 http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
 
+#EXTINF:-1 tvg-id="TVAsahi.jp" status="online",TV Asahi
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+
 #EXTINF:-1 tvg-id="JOCXDTV.jp" status="online",Fuji TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 
@@ -39,9 +42,6 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
 
 #EXTINF:-1 tvg-id="JORXDTV.jp" status="online",TBS
 http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
-
-#EXTINF:-1 tvg-id="TVAsahi.jp" status="online",TV Asahi
-http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 
 #EXTINF:-1 tvg-id="JOTXDTV.jp" status="online",TV Tokyo
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
@@ -55,13 +55,34 @@ https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 #EXTINF:-1 tvg-id="Weathernews.jp" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Weather",Weather News
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 
+#EXTINF:-1 tvg-id="NHKBS1.jp" status="timeout",NHK BS1
+http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
+
+#EXTINF:-1 tvg-id="NHKBSPremium.jp" status="timeout",NHK BSP
+http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
+
+#EXTINF:-1 tvg-id="BSAsahi.jp" status="timeout",BS Asahi
+http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8
+
+#EXTINF:-1 tvg-id="BSFuji.jp" status="timeout",BS Fuji
+http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
+
+#EXTINF:-1 tvg-id="BSNipponTV.jp" status="timeout",BS Nippon TV
+http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
+
+#EXTINF:-1 tvg-id="BSTBS.jp" status="timeout",BS TBS
+http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
+
+#EXTINF:-1 tvg-id="BSTVTokyo.jp" status="timeout",BS TV Tokyo
+http://redlabmcdn.s.llnwi.net/nv02/bs06hd/index.m3u8
+
 <!-- Anime -->
 
 #EXTINF:-1 tvg-id="Animax.jp" status="online",Animax
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 
 #EXTINF:-1 tvg-id="ATX.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.at-x.com/favicon_android.png" group-title="Animation",AT-X
-https://sub2.neetball.net/live/neet.m3u8
+https://sub.neetball.net/live/neet.m3u8
 
 #EXTINF:-1 tvg-id="CONtvAnime.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893" group-title="Animation",CONtv Anime
 https://contvanime-localnow.cinedigm.com/playlist.m3u8
