@@ -190,6 +190,21 @@ https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.
 #EXTINF:-1 tvg-id="" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",EbS+
 https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=2600000.m3u8
 
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" status="timeout",Euronews
+https://euronews.alteox.app/hls/en_stream.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr" status="timeout",TV5 Monde
+http://210.210.155.37/dr9445/s/s24/index.m3u8
+
+<!-- US -->
+
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" status="timeout",Bloomberg Quicktake
+https://bloomberg-quicktake-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" status="timeout",Bloomberg TV
+https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
+
+
 <!-- Pluto TV Movies -->
 
 #EXTINF:-1 tvg-id="PlutoTVSpotlight.us" status="timeout",Pluto TV Spotlight
