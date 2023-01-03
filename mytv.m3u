@@ -8,20 +8,11 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="" status="online",CLTV 36
 http://210.213.69.20:5080/LiveApp/streams/cltvmcr.m3u8
 
-#EXTINF:-1 tvg-id="DZRHNewsTV.ph" status="online",DZRH News TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DZRHNewsTelevision/live
-
 #EXTINF:-1 tvg-id="" status="online",Super Radyo DZBB
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=69370110
 
 #EXTINF:-1 tvg-id="PEPTV.ph" status="online",PEP TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/peptv3
-
-#EXTINF:-1 tvg-id="TeleRadyo.ph" status="online",TeleRadyo
-https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVMaria.ph" status="online",TV Maria
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TVMariaLIVE/live
 
 <!-- Japan -->
 
