@@ -114,6 +114,9 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK.kh" status="online",TVK
 https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/master.m3u8
 
+#EXTINF:-1 tvg-id="ANTV.id" status="online",ANTV
+http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
+
 #EXTINF:-1 tvg-id="TVRINasional.id" status="online",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 
