@@ -52,9 +52,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:-1 tvg-id="RTBSukmaindera.bn" status="online",RTB Sukmaindera
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVK.kh" status="online",TVK
-https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/master.m3u8
-
 #EXTINF:-1 tvg-id="ANTV.id" status="online",ANTV
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 
@@ -96,14 +93,17 @@ http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 
 <!-- Australia -->
 
-#EXTINF:-1 tvg-id="" tvg-country="AU" tvg-language="" tvg-logo="" group-title="Undefined",ABC ME
+#EXTINF:-1 tvg-id="ABCKids.au",ABC Kids
+https://c.mjh.nz/101002210222
+
+#EXTINF:-1 tvg-id="ABCMe.au",ABC ME
 https://c.mjh.nz/101002210224
 
-#EXTINF:-1 tvg-id="ABCTV.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Undefined",ABC TV
-https://c.mjh.nz/3201026102E1
+#EXTINF:-1 tvg-id="ABCNewsAustralia.au",ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 tvg-id="ABCTVPlus.au" tvg-country="AU" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/512px-ABC_TV_Plus_logo_2021.svg.png" group-title="Undefined",ABC TV Plus
-https://c.mjh.nz/abc2
+#EXTINF:-1 tvg-id="ABCTV.au",ABC TV
+https://c.mjh.nz/3201026102E1
 
 <!-- Europe -->
 
