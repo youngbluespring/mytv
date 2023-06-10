@@ -93,17 +93,8 @@ http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 
 <!-- Australia -->
 
-#EXTINF:-1 tvg-id="ABCKids.au",ABC Kids
-https://c.mjh.nz/101002210222
-
-#EXTINF:-1 tvg-id="ABCMe.au",ABC ME
-https://c.mjh.nz/101002210224
-
 #EXTINF:-1 tvg-id="ABCNewsAustralia.au",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-
-#EXTINF:-1 tvg-id="ABCTV.au",ABC TV
-https://c.mjh.nz/3201026102E1
 
 <!-- Europe -->
 
