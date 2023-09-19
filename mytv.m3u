@@ -25,6 +25,50 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3e
 #EXTINF:-1 tvg-id="YuGiOh.us" tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="Animation",Pluto TV Yu-Gi-Oh
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+<!-- Philippines -->
+
+#EXTINF:-1 tvg-id="AngDatingDaan.ph",Ang Dating Daan
+https://ythls.onrender.com/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8
+
+#EXTINF:-1 tvg-id="DZRHNewsTV.ph",DZRH News TV
+https://ythls.onrender.com/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
+
+#EXTINF:-1 tvg-id="GreatCommissionTV.ph",Great Commission TV
+http://45.32.115.103/live/livestream/index.m3u8
+
+#EXTINF:-1 tvg-id="INCTV.ph",INC TV
+https://cocphil.akamaized.net/hls/live/2042846/inctv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ANC.ph",Kapamilya Online Live
+https://ythls.onrender.com/channel/UCE2606prvXQc_noEqKxVJXA.m3u8
+
+#EXTINF:-1 tvg-id="LifeTVAsia.ph",Life TV Asia
+https://ythls.onrender.com/channel/UCisr6Z2C8R2QF-Qh6NOH9cg.m3u8
+
+#EXTINF:-1 tvg-id="Net25.ph",NET 25
+https://ythls.onrender.com/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
+
+#EXTINF:-1 tvg-id="OrasngHimala.ph",Oras Ng Himala
+https://ythls.onrender.com/channel/UCG_nkfwsIhO1OiRQUGfdLyw.m3u8
+
+#EXTINF:-1 tvg-id="PIE.ph",PIE Channel
+https://ythls.onrender.com/channel/UCAxAaFQnH5IK_ZTwiQWV-9A.m3u8
+
+#EXTINF:-1 tvg-id="PTV4.ph",PTV
+https://ythls.onrender.com/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
+
+#EXTINF:-1 tvg-id="SMNI.ph",SMNI
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+
+#EXTINF:-1 tvg-id="",Super Radyo DZBB
+https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMaria.ph",TV Maria
+https://ythls.onrender.com/channel/UCDXPB23ws_T0rVvrXVCYqyA.m3u8
+
+#EXTINF:-1 tvg-id="UNTV.ph",UNTV
+https://untv.mmdlive.lldns.net/untv/0251dac212a94932ae3563150cbb3788/untvweb.m3u8
+
 <!-- Kids -->
 
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",Baby Shark TV
