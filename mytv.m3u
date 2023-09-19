@@ -125,7 +125,7 @@ https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9be
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
-EXTINF:-1 tvg-id="8TV.my",8TV
+#EXTINF:-1 tvg-id="8TV.my",8TV
 https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="CNAInternational.sg",CNA
