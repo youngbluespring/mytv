@@ -191,6 +191,9 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 #EXTINF:-1 tvg-id="BloombergTVAsia.hk",Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
+#EXTINF:-1 tvg-id="BYUTV.us" tvg-logo="https://i.imgur.com/mruGyuu.png" group-title="Undefined",BYU TV
+https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8
+
 #EXTINF:-1 tvg-id="Revry.us",Revry
 https://785e3b6ff91d4c6db1d8a5b67a894571.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-5-REVRY-BRIGHTCOVE/mt/brightcove/5/hls/master/playlist.m3u8
 
