@@ -4,9 +4,6 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 <!-- Japan -->
 
-#EXTINF:-1 tvg-id="Weathernews.jp",Weathernews
-https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
-
 <!-- Anime -->
 
 #EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="USA",Pluto TV Anime All Day
@@ -26,32 +23,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3e
 
 #EXTINF:-1 tvg-id="YuGiOh.us" tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="Animation",Pluto TV Yu-Gi-Oh
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-<!-- Philippines -->
-
-#EXTINF:-1 tvg-id="AngDatingDaan.ph",Ang Dating Daan
-https://ythls.onrender.com/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8
-
-#EXTINF:-1 tvg-id="DZRHNewsTV.ph",DZRH News TV
-https://ythls.onrender.com/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
-
-#EXTINF:-1 tvg-id="GreatCommissionTV.ph",Great Commission TV
-http://45.32.115.103/live/livestream/index.m3u8
-
-#EXTINF:-1 tvg-id="OrasngHimala.ph",Oras Ng Himala
-https://ythls.onrender.com/channel/UCG_nkfwsIhO1OiRQUGfdLyw.m3u8
-
-#EXTINF:-1 tvg-id="PIE.ph",PIE Channel
-https://ythls.onrender.com/channel/UCAxAaFQnH5IK_ZTwiQWV-9A.m3u8
-
-#EXTINF:-1 tvg-id="",Super Radyo DZBB
-https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVMaria.ph",TV Maria
-https://ythls.onrender.com/channel/UCDXPB23ws_T0rVvrXVCYqyA.m3u8
-
-#EXTINF:-1 tvg-id="UNTV.ph",UNTV
-https://untv.mmdlive.lldns.net/untv/0251dac212a94932ae3563150cbb3788/untvweb.m3u8
 
 <!-- US -->
 
@@ -107,25 +78,8 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1 tvg-id="RTBSukmaindera.bn" status="online",RTB Sukmaindera
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ANTV.id",ANTV
-http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
-
 #EXTINF:-1 tvg-id="TVRINasional.id",TVRI Nasional
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-
-#EXTINF:-1 tvg-id="",TV1 Malaysia
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
-
-#EXTINF:-1 tvg-id="",TV2 Malaysia
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
-
-#EXTINF:-1 tvg-id="TV3.my",TV3 Malaysia
-https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="8TV.my",8TV
-https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="CNAInternational.sg",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
