@@ -29,9 +29,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed
 #EXTINF:-1 tvg-id="AsianCrush.us" tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="Entertainment",AsianCrush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",Baby Shark TV
-https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BloombergTVAsia.hk",Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
@@ -86,12 +83,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 #EXTINF:-1 tvg-id="" status="online",Thai PBS
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTHKTV31.hk",RTHK 31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-
-#EXTINF:-1 tvg-id="RTHKTV32.hk",RTHK 32
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 
 #EXTINF:-1 tvg-id="TDMMacau.mo" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="",TDM Ou Mun
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
