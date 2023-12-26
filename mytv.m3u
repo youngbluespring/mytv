@@ -59,14 +59,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRINasional.id",TVRI Nasional
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
-#EXTINF:-1 tvg-id="TV1.my" tvg-logo="https://i.imgur.com/wSyPmiY.png" group-title="Undefined",TV1
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
-
-#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://i.imgur.com/LGEdeyJ.png" group-title="Undefined",TV2
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
-
 #EXTINF:-1 tvg-id="CNAInternational.sg",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
