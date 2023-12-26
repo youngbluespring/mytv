@@ -2,8 +2,6 @@
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-<!-- Japan -->
-
 <!-- Anime -->
 
 #EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png" group-title="Animation",Animax
@@ -126,12 +124,6 @@ https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 
 #EXTINF:-1 tvg-id="DWEnglish.de",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",EbS
-https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",EbS+
-https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=2600000.m3u8
 
 <!-- Pluto TV Movies -->
 
