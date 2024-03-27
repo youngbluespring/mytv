@@ -1,182 +1,116 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan
+#EXTINF:-1  tvg-name="" tvg-id="NHKWorldJapan.jp" tvg-logo="" group-title="" :http-referrer="",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-
-#EXTINF:-1 tvg-id="ConectaTV.mx",Kada TV
+#EXTINF:-1  tvg-name="" tvg-id="ConectaTV.mx" tvg-logo="" group-title="" :http-referrer="https://ssh101.com/",Kada TV
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://rpn3.bozztv.com/ssh101/ssh101/kadatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CLTV36.ph" tvg-logo="https://i.imgur.com/IUcTFQ2.png" group-title="Undefined",CLTV 36
+#EXTINF:-1  tvg-name="" tvg-id="CLTV36.ph" tvg-logo="" group-title="" :http-referrer="",CLTV 36
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
-
-<!-- Anime -->
-
-#EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png" group-title="Animation",Animax
+#EXTINF:-1  tvg-name="" tvg-id="Animax.jp" tvg-logo="" group-title="" :http-referrer="",Animax
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-
-#EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="USA",Pluto TV Anime All Day
+#EXTINF:-1  tvg-name="" tvg-id="5812b7d3249444e05d09cc49" tvg-logo="" group-title="" :http-referrer="",Pluto TV Anime All Day
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="RetroCrush.us" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="Animation;Classic",RetroCrush
+#EXTINF:-1  tvg-name="" tvg-id="RetroCrush.us" tvg-logo="" group-title="" :http-referrer="",RetroCrush
 https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
-
-#EXTINF:-1 tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="USA",TokuSHOUTsu
+#EXTINF:-1  tvg-name="" tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="" group-title="" :http-referrer="",TokuSHOUTsu
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="Naruto.us" tvg-logo="https://i.imgur.com/M8X3Kvc.png" group-title="Animation",Pluto TV Naruto
+#EXTINF:-1  tvg-name="" tvg-id="Naruto.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV Naruto
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="OnePiece.us" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="Animation",Pluto TV One Piece
+#EXTINF:-1  tvg-name="" tvg-id="OnePiece.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV One Piece
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="YuGiOh.us" tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="Animation",Pluto TV Yu-Gi-Oh
+#EXTINF:-1  tvg-name="" tvg-id="YuGiOh.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV Yu-Gi-Oh
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-<!-- Japan -->
-
-#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General",NHK G
+#EXTINF:-1  tvg-name="" tvg-id="JOAKDTV.jp" tvg-logo="" group-title="" :http-referrer="",NHK G
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
-
-#EXTINF:-1 tvg-id="JOABDTV.jp" tvg-logo="https://i.imgur.com/WxtftlO.png" group-title="Education",NHK E
+#EXTINF:-1  tvg-name="" tvg-id="JOABDTV.jp" tvg-logo="" group-title="" :http-referrer="",NHK E
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
-
-#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="Undefined",Fuji TV
+#EXTINF:-1  tvg-name="" tvg-id="JOCXDTV.jp" tvg-logo="" group-title="" :http-referrer="",Fuji TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
-
-#EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="Undefined",Nippon TV
+#EXTINF:-1  tvg-name="" tvg-id="JOAXDTV.jp" tvg-logo="" group-title="" :http-referrer="",Nippon TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
-
-#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="https://i.imgur.com/dUn2GRn.png" group-title="Undefined",TBS
+#EXTINF:-1  tvg-name="" tvg-id="JORXDTV.jp" tvg-logo="" group-title="" :http-referrer="",TBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
-
-#EXTINF:-1 tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="Undefined",TV Asahi
+#EXTINF:-1  tvg-name="" tvg-id="JOEXDTV.jp" tvg-logo="" group-title="" :http-referrer="",TV Asahi
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
-
-#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="https://i.imgur.com/tDyxk0Y.png" group-title="Undefined",TV Tokyo
+#EXTINF:-1  tvg-name="" tvg-id="JOTXDTV.jp" tvg-logo="" group-title="" :http-referrer="",TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
-
-#EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-logo="https://i.imgur.com/igia8OX.png" group-title="Undefined",Tokyo MX
+#EXTINF:-1  tvg-name="" tvg-id="TokyoMX1.jp" tvg-logo="" group-title="" :http-referrer="",Tokyo MX
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
-
-<!-- Japan 2-->
-
-#EXTINF:-1 tvg-id="JOOYDTV.jp" tvg-logo="https://i.imgur.com/RfrkGrd.png" group-title="Undefined",MBS
+#EXTINF:-1  tvg-name="" tvg-id="JOOYDTV.jp" tvg-logo="" group-title="" :http-referrer="",MBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
-
-#EXTINF:-1 tvg-id="JOUHDTV.jp" tvg-logo="https://i.imgur.com/0qtXIRM.png" group-title="Entertainment",Sun TV
+#EXTINF:-1  tvg-name="" tvg-id="JOUHDTV.jp" tvg-logo="" group-title="" :http-referrer="",Sun TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
-
-#EXTINF:-1 tvg-id="GAORASPORTS.jp" tvg-logo="https://i.imgur.com/UgKRfuw.png" group-title="Sports",Gaora
+#EXTINF:-1  tvg-name="" tvg-id="GAORASPORTS.jp" tvg-logo="" group-title="" :http-referrer="",Gaora
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-
-#EXTINF:-1 tvg-id="JSPORTS1.jp" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Sports",J Sports 1
+#EXTINF:-1  tvg-name="" tvg-id="JSPORTS1.jp" tvg-logo="" group-title="" :http-referrer="",J Sports 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-
-#EXTINF:-1 tvg-id="JSPORTS2.jp" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="Sports",J Sports 2
+#EXTINF:-1  tvg-name="" tvg-id="JSPORTS2.jp" tvg-logo="" group-title="" :http-referrer="",J Sports 2
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-
-#EXTINF:-1 tvg-id="JSPORTS3.jp" tvg-logo="https://i.imgur.com/xdI361E.png" group-title="Sports",J Sports 3
+#EXTINF:-1  tvg-name="" tvg-id="JSPORTS3.jp" tvg-logo="" group-title="" :http-referrer="",J Sports 3
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-
-#EXTINF:-1 tvg-id="JSPORTS4.jp" tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="Sports",J Sports 4
+#EXTINF:-1  tvg-name="" tvg-id="JSPORTS4.jp" tvg-logo="" group-title="" :http-referrer="",J Sports 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-
-<!-- Asia & US -->
-
-#EXTINF:-1 tvg-id="ArirangTV.kr",Arirang
+#EXTINF:-1  tvg-name="" tvg-id="ArirangTV.kr" tvg-logo="" group-title="" :http-referrer="",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KBSWorld.kr" status="online",KBS World
+#EXTINF:-1  tvg-name="" tvg-id="KBSWorld.kr" tvg-logo="" group-title="" :http-referrer="",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-
-#EXTINF:-1 tvg-id="KCTV.kp" tvg-country="KP" tvg-language="Korean" tvg-logo="https://i.imgur.com/rEn31ub.png" group-title="News",KCTV
+#EXTINF:-1  tvg-name="" tvg-id="KCTV.kp" tvg-logo="" group-title="" :http-referrer="",KCTV
 https://tv.nknews.org/tvdash/stream.mpd
-
-#EXTINF:-1 tvg-id="CNAInternational.sg",CNA
+#EXTINF:-1  tvg-name="" tvg-id="CNAInternational.sg" tvg-logo="" group-title="" :http-referrer="",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-
-#EXTINF:-1 tvg-id="BloombergTVAsia.hk",Bloomberg TV Asia
+#EXTINF:-1  tvg-name="" tvg-id="BloombergTVAsia.hk" tvg-logo="" group-title="" :http-referrer="",Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
-
-#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Classic",Classic Arts Showcase
+#EXTINF:-1  tvg-name="" tvg-id="ClassicArtsShowcase.us" tvg-logo="" group-title="" :http-referrer="",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-
-#EXTINF:-1 tvg-id="NickPlutoTV.us" tvg-logo="https://i.imgur.com/N7rQyzN.png" group-title="Kids",Pluto TV Nick
+#EXTINF:-1  tvg-name="" tvg-id="NickPlutoTV.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV Nick
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca673e0d0bd6c2689c94ce3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=977&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="WMPTDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/512px-Create_TV_network_logo.svg.png" group-title="Undefined",PBS Create
+#EXTINF:-1  tvg-name="" tvg-id="WMPTDT2.us" tvg-logo="" group-title="" :http-referrer="",PBS Create
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us",PBS Kids
+#EXTINF:-1  tvg-name="" tvg-id="PBSKidsEasternCentral.us" tvg-logo="" group-title="" :http-referrer="",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WKMJDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="Undefined",PBS World
+#EXTINF:-1  tvg-name="" tvg-id="WKMJDT3.us" tvg-logo="" group-title="" :http-referrer="",PBS World
 https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
-
-<!-- Pluto TV Movies -->
-
-#EXTINF:-1 tvg-id="PlutoTVSpotlight.us",Pluto TV Spotlight
+#EXTINF:-1  tvg-name="" tvg-id="PlutoTVSpotlight.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV Spotlight
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=51&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVAction.us",Pluto TV Action
+#EXTINF:-1  tvg-name="" tvg-id="PlutoTVAction.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV Action
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=561d7d484dc7c8770484914a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=54&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVComedy.us",Pluto TV Comedy
+#EXTINF:-1  tvg-name="" tvg-id="PlutoTVComedy.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV Comedy
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d3a00ad95e4718ae8d8db&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=57&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVDrama.us",Pluto TV Drama
+#EXTINF:-1  tvg-name="" tvg-id="PlutoTVDrama.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVFantastic.us",Pluto TV Fantastic
+#EXTINF:-1  tvg-name="" tvg-id="PlutoTVFantastic.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV Fantastic
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b64a245a202b3337f09e51d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=66&terminate=false&userId=
-
-#EXTINF:-1 tvg-name="Pluto TV Romance" tvg-logo="https://i.imgur.com/j6livg0.png" group-title="VOD Movies (EN)",Pluto TV Romance
+#EXTINF:-1  tvg-name="Pluto TV Romance" tvg-id="" tvg-logo="" group-title="" :http-referrer="",Pluto TV Romance
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=70&deviceId=5a66795ef91fef2c7031c599&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-id="PlutoTVCrimeMovies.us" status="timeout",Pluto TV Crime Movies
+#EXTINF:-1  tvg-name="" tvg-id="PlutoTVCrimeMovies.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV Crime Movies
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVThrillers.us" status="timeout",Pluto TV Thrillers
+#EXTINF:-1  tvg-name="" tvg-id="PlutoTVThrillers.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV Thrillers
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e69e08291147bd04a9fd7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=74&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVHorror.us" status="timeout",Pluto TV Horror
+#EXTINF:-1  tvg-name="" tvg-id="PlutoTVHorror.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV Horror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=569546031a619b8f07ce6e25&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=75&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVTerror.us" status="timeout",Pluto TV Terror
+#EXTINF:-1  tvg-name="" tvg-id="PlutoTVTerror.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV Terror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c6dc88fcd232425a6e0f06e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=76&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="BlackCinema.us" status="timeout",Pluto TV Black Cinema
+#EXTINF:-1  tvg-name="" tvg-id="BlackCinema.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV Black Cinema
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVStaffPicks.us" status="timeout",Pluto TV Staff Picks
+#EXTINF:-1  tvg-name="" tvg-id="PlutoTVStaffPicks.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV Staff Picks
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98b41000076cd061/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVDocumentaries.us" status="timeout",Pluto TV Documentaries
+#EXTINF:-1  tvg-name="" tvg-id="PlutoTVDocumentaries.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV Documentaries
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b85a7582921777994caea63&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=91&terminate=false&userId=
-
-#EXTINF:-1 tvg-name="90s Throwback" tvg-logo="https://i.imgur.com/sI1o3uK.png" group-title="VOD Movies (EN)",90s Throwback
+#EXTINF:-1  tvg-name="90s Throwback" tvg-id="" tvg-logo="" group-title="" :http-referrer="",90s Throwback
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=94&deviceId=5f4d86f519358a00072b978e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-name="80s Rewind" tvg-logo="https://i.imgur.com/0FaLAhK.png" group-title="VOD Movies (EN)",80s Rewind
+#EXTINF:-1  tvg-name="80s Rewind" tvg-id="" tvg-logo="" group-title="" :http-referrer="",80s Rewind
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=95&deviceId=5ca525b650be2571e3943c63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-name="70s Cinema" tvg-logo="https://i.imgur.com/wk9Baz9.png" group-title="VOD Movies (EN)",70s Cinema
+#EXTINF:-1  tvg-name="70s Cinema" tvg-id="" tvg-logo="" group-title="" :http-referrer="",70s Cinema
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=96&deviceId=5f4d878d3d19b30007d2e782&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-id="ParamountMovieChannel.us",Pluto TV Paramount Movie Channel
+#EXTINF:-1  tvg-name="" tvg-id="ParamountMovieChannel.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV Paramount Movie Channel
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cb0cae7a461406ffe3f5213&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=100&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVWesterns.us",Pluto TV Westerns
+#EXTINF:-1  tvg-name="" tvg-id="PlutoTVWesterns.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV Westerns
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="ClassicMoviesChannel.us",Pluto TV Classic Movies
+#EXTINF:-1  tvg-name="" tvg-id="ClassicMoviesChannel.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV Classic Movies
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=561c5b0dada51f8004c4d855&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=106&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVCultFilms.us",Pluto TV Cult Films
+#EXTINF:-1  tvg-name="" tvg-id="PlutoTVCultFilms.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV Cult Films
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c665db3e6c01b72c4977bc2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=109&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="FlicksofFury.us",Pluto TV Flicks of Fury
+#EXTINF:-1  tvg-name="" tvg-id="FlicksofFury.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV Flicks of Fury
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=58e55b14ad8e9c364d55f717&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=112&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="TheAsylum.us",The Asylum
+#EXTINF:-1  tvg-name="" tvg-id="TheAsylum.us" tvg-logo="" group-title="" :http-referrer="",The Asylum
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/591105034c1806b47438342c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
