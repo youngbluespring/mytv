@@ -89,7 +89,6 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm/index.m3u8
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="ClassicArtsShowcase.us" tvg-logo="" group-title="" :http-referrer="",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-
 #EXTINF:-1 tvg-id="ALF.us",ALF
 https://97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ALF/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianCrush.us",AsianCrush
