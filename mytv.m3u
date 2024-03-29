@@ -6,6 +6,8 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="KadaTV.ph" tvg-logo="" group-title="" :http-referrer="https://ssh101.com/",Kada TV
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://rpn3.bozztv.com/ssh101/ssh101/kadatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Weathernews.jp",Weathernews
+https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
 #EXTINF:-1  tvg-name="" tvg-id="CLTV36.ph" tvg-logo="" group-title="" :http-referrer="",CLTV 36
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="Animax.jp" tvg-logo="" group-title="" :http-referrer="",Animax
@@ -37,11 +39,32 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 #EXTINF:-1  tvg-name="" tvg-id="JOTXDTV.jp" tvg-logo="" group-title="" :http-referrer="",TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1  tvg-name="" tvg-id="TokyoMX1.jp" tvg-logo="" group-title="" :http-referrer="",Tokyo MX
+#EXTINF:-1 tvg-id="NHKBS.jp",NHK BS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:-1 tvg-id="BSAsahi.jp",BS Asahi
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+#EXTINF:-1 tvg-id="BSFuji.jp",BS Fuji TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+#EXTINF:-1 tvg-id="BSNipponTV.jp",BS Nippon TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+#EXTINF:-1 tvg-id="BSTBS.jp",BS TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+#EXTINF:-1 tvg-id="BSTVTokyo.jp",BS TV Tokyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+#EXTINF:-1 tvg-id="JOAYDTV.jp",ABC
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+#EXTINF:-1 tvg-id="JODXDTV.jp",Kansai TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
 #EXTINF:-1  tvg-name="" tvg-id="JOOYDTV.jp" tvg-logo="" group-title="" :http-referrer="",MBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+#EXTINF:-1 tvg-id="JOBHDTV.jp",TV Osaka
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+#EXTINF:-1 tvg-id="JOIXDTV.jp",YTV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
 #EXTINF:-1  tvg-name="" tvg-id="JOUHDTV.jp" tvg-logo="" group-title="" :http-referrer="",Sun TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+#EXTINF:-1 tvg-id="FujiTVNEXT.jp",Fuji TV NEXT
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
 #EXTINF:-1  tvg-name="" tvg-id="GAORASPORTS.jp" tvg-logo="" group-title="" :http-referrer="",Gaora
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 #EXTINF:-1  tvg-name="" tvg-id="JSPORTS1.jp" tvg-logo="" group-title="" :http-referrer="",J Sports 1
