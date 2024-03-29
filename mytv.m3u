@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="" tvg-id="NHKWorldJapan.jp" tvg-logo="" group-title="" :http-referrer="" :http-user-agent="",NHK World Japan
+#EXTINF:-1  tvg-name="" tvg-id="NHKWorldJapan.jp" tvg-logo="" group-title="Japan - General" :http-referrer="" :http-user-agent="",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="Weathernews.jp" tvg-logo="" group-title="" :http-referrer="" :http-user-agent="",Weathernews
+#EXTINF:-1  tvg-name="" tvg-id="Weathernews.jp" tvg-logo="" group-title="Japan - General" :http-referrer="" :http-user-agent="",Weathernews
 https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
-#EXTINF:-1  tvg-name="" tvg-id="KadaTV.ph" tvg-logo="" group-title="" :http-referrer="https://ssh101.com/" :http-user-agent="",Kada TV
+#EXTINF:-1  tvg-name="" tvg-id="KadaTV.ph" tvg-logo="" group-title="Community" :http-referrer="https://ssh101.com/" :http-user-agent="",Kada TV
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://rpn3.bozztv.com/ssh101/ssh101/kadatv/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="CLTV36.ph" tvg-logo="" group-title="" :http-referrer="" :http-user-agent="",CLTV 36
+#EXTINF:-1  tvg-name="" tvg-id="CLTV36.ph" tvg-logo="" group-title="Philippines" :http-referrer="" :http-user-agent="",CLTV 36
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="Animax.jp" tvg-logo="" group-title="Otaku" :http-referrer="" :http-user-agent="",Animax
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
