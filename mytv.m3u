@@ -1,13 +1,15 @@
 #EXTM3U
 #EXTINF:-1  tvg-name="" tvg-id="NHKWorldJapan.jp" tvg-logo="" group-title="" :http-referrer="",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id="Weathernews.jp",Weathernews
+https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
+
 #EXTINF:-1  tvg-name="" tvg-id="KadaTV.ph" tvg-logo="" group-title="" :http-referrer="https://ssh101.com/",Kada TV
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://rpn3.bozztv.com/ssh101/ssh101/kadatv/playlist.m3u8
-#EXTINF:-1 tvg-id="Weathernews.jp",Weathernews
-https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
 #EXTINF:-1  tvg-name="" tvg-id="CLTV36.ph" tvg-logo="" group-title="" :http-referrer="",CLTV 36
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
+
 #EXTINF:-1  tvg-name="" tvg-id="Animax.jp" tvg-logo="" group-title="" :http-referrer="",Animax
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1  tvg-name="" tvg-id="5812b7d3249444e05d09cc49" tvg-logo="" group-title="" :http-referrer="",Pluto TV Anime All Day
@@ -22,6 +24,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1  tvg-name="" tvg-id="YuGiOh.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV Yu-Gi-Oh
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
 #EXTINF:-1  tvg-name="" tvg-id="JOAKDTV.jp" tvg-logo="" group-title="" :http-referrer="",NHK G
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
 #EXTINF:-1  tvg-name="" tvg-id="JOABDTV.jp" tvg-logo="" group-title="" :http-referrer="",NHK E
@@ -38,6 +41,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1  tvg-name="" tvg-id="TokyoMX1.jp" tvg-logo="" group-title="" :http-referrer="",Tokyo MX
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+
 #EXTINF:-1 tvg-id="NHKBS.jp",NHK BS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
 #EXTINF:-1 tvg-id="BSAsahi.jp",BS Asahi
@@ -62,6 +66,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
 #EXTINF:-1  tvg-name="" tvg-id="JOUHDTV.jp" tvg-logo="" group-title="" :http-referrer="",Sun TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+
 #EXTINF:-1 tvg-id="FujiTVNEXT.jp",Fuji TV NEXT
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
 #EXTINF:-1  tvg-name="" tvg-id="GAORASPORTS.jp" tvg-logo="" group-title="" :http-referrer="",Gaora
@@ -74,21 +79,52 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTINF:-1  tvg-name="" tvg-id="JSPORTS4.jp" tvg-logo="" group-title="" :http-referrer="",J Sports 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+
 #EXTINF:-1  tvg-name="" tvg-id="ArirangTV.kr" tvg-logo="" group-title="" :http-referrer="",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="KBSWorld.kr" tvg-logo="" group-title="" :http-referrer="",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="KCTV.kp" tvg-logo="" group-title="" :http-referrer="",KCTV
 https://tv.nknews.org/tvdash/stream.mpd
+
 #EXTINF:-1  tvg-name="" tvg-id="CNAInternational.sg" tvg-logo="" group-title="" :http-referrer="",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="GMM25.th" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",GMM 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm/index.m3u8
+#EXTINF:-1 tvg-id="RTHKTV31.hk",RTHK 31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-id="RTHKTV32.hk",RTHK 32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 tvg-id="TDMMacau.mo" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="",TDM Ou Mun
+http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalMacau.mo" tvg-country="MO" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="General",Canal Macau
+http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="TDMInfoMacau.mo" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="",TDM Information
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="TDMSportsMacau.mo" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="Sports",TDM Sports
+http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-id="TDMMacauSatelite.mo" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/59lAsao.png" group-title="",TDM Macau World
+http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="AoMenZongYi.mo" tvg-country="MO" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TDM_Entertainment.png/640px-TDM_Entertainment.png" group-title="",TDM Entertainment
+http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABCTVNSW.au",ABC TV
+https://c.mjh.nz/abc-nsw.m3u8
+#EXTINF:-1 tvg-id="DasErste.de",Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="BloombergTVAsia.hk" tvg-logo="" group-title="" :http-referrer="",Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="ClassicArtsShowcase.us" tvg-logo="" group-title="" :http-referrer="",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-id="WMPTDT2.us",PBS Create
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSKidsPacific.us",PBS Kids
+https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8
+#EXTINF:-1 tvg-id="WKMJDT3.us",PBS KET World
+https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ALF.us",ALF
 https://97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ALF/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianCrush.us",AsianCrush
