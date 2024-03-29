@@ -14,8 +14,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  tvg-name="" tvg-id="RetroCrush.us" tvg-logo="" group-title="" :http-referrer="",RetroCrush
 https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="" group-title="" :http-referrer="",TokuSHOUTsu
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="TokuSHOUTsu.us",TokuSHOUTsu
+https://amg00163-shoutfactory-tokushoutsu-dmr-c1irg.amagi.tv/playlist/amg00163-shoutfactory-tokushoutsu-dmr/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="Naruto.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV Naruto
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=
 #EXTINF:-1  tvg-name="" tvg-id="OnePiece.us" tvg-logo="" group-title="" :http-referrer="",Pluto TV One Piece
@@ -123,8 +123,6 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es",RealMadrid TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroCrush.us",Retro Crush
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="ScreamFactoryTV.us",Scream Factory TV
 https://b1570a6919f94bcfa2f061daee64c70f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_ScreamFactoryTV/playlist.m3u8
 #EXTINF:-1 tvg-id="ShoutFactoryTV.us",Shout Factory TV
@@ -135,8 +133,6 @@ https://837dd61e3fed471fbbe33391a57920d4.mediatailor.us-east-1.amazonaws.com/v1/
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="TheBobRossChannel.us",The Bob Ross Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobross-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="TheBobRossChannelenEspanol.us",The Bob Ross Channel Spanish
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobrossspanish-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="TheCarolBurnettShow.us",The Carol Burnett Show
 https://amg00163-shoutfactory-carolburnett-dmr-cpk9r.amagi.tv/playlist/amg00163-shoutfactory-carolburnett-dmr/playlist.m3u8
 #EXTINF:-1 tvg-id="TheCountryNetwork.us",The Country Network
@@ -145,5 +141,3 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-countrynetwor
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-elvis-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="TheFilmDetective.us",The Film Detective
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="TokuSHOUTsu.us",Tokushoutsu
-https://amg00163-shoutfactory-tokushoutsu-dmr-c1irg.amagi.tv/playlist/amg00163-shoutfactory-tokushoutsu-dmr/playlist.m3u8
