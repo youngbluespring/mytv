@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="" tvg-id="NHKWorldJapan.jp" tvg-logo="" group-title="" :http-referrer="",NHK World Japan 2
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/63b5964d1bdba1000712521f/3063648/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="NHKWorldJapan.jp" tvg-logo="" group-title="" :http-referrer="",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="KadaTV.ph" tvg-logo="" group-title="" :http-referrer="https://ssh101.com/",Kada TV
