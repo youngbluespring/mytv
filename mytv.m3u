@@ -74,11 +74,11 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTINF:-1  tvg-name="" tvg-id="JSPORTS4.jp" tvg-logo="" group-title="Japan - Sports" :http-referrer="" :http-user-agent="",J Sports 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-#EXTINF:-1 tvg-id="WOWOWCinema.jp" group-title="Japan - BS" :http-referrer="" :http-user-agent="",WOWOW Cinema
+#EXTINF:-1  tvg-name="" tvg-id="WOWOWCinema.jp" tvg-logo="" group-title="Japan - BS" :http-referrer="" :http-user-agent="",WOWOW Cinema
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
-#EXTINF:-1 tvg-id="WOWOWLive.jp" group-title="Japan - BS" :http-referrer="" :http-user-agent="",WOWOW Live
+#EXTINF:-1  tvg-name="" tvg-id="WOWOWLive.jp" tvg-logo="" group-title="Japan - BS" :http-referrer="" :http-user-agent="",WOWOW Live
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
-#EXTINF:-1 tvg-id="WOWOWPrime.jp" group-title="Japan - BS" :http-referrer="" :http-user-agent="",WOWOW Prime
+#EXTINF:-1  tvg-name="" tvg-id="WOWOWPrime.jp" tvg-logo="" group-title="Japan - BS" :http-referrer="" :http-user-agent="",WOWOW Prime
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
 #EXTINF:-1  tvg-name="" tvg-id="ArirangTV.kr" tvg-logo="" group-title="Asia & Europe" :http-referrer="" :http-user-agent="",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
