@@ -38,18 +38,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1  tvg-name="" tvg-id="TokyoMX1.jp" tvg-logo="" group-title="Japan - General" :http-referrer="" :http-user-agent="",Tokyo MX
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
-#EXTINF:-1  tvg-name="" tvg-id="NHKBS.jp" tvg-logo="" group-title="Japan - General" :http-referrer="" :http-user-agent="",NHK BS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
-#EXTINF:-1  tvg-name="" tvg-id="BSAsahi.jp" tvg-logo="" group-title="Japan - General" :http-referrer="" :http-user-agent="",BS Asahi
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
-#EXTINF:-1  tvg-name="" tvg-id="BSFuji.jp" tvg-logo="" group-title="Japan - General" :http-referrer="" :http-user-agent="",BS Fuji TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
-#EXTINF:-1  tvg-name="" tvg-id="BSNipponTV.jp" tvg-logo="" group-title="Japan - General" :http-referrer="" :http-user-agent="",BS Nippon TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
-#EXTINF:-1  tvg-name="" tvg-id="BSTBS.jp" tvg-logo="" group-title="Japan - General" :http-referrer="" :http-user-agent="",BS TBS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
-#EXTINF:-1  tvg-name="" tvg-id="BSTVTokyo.jp" tvg-logo="" group-title="Japan - General" :http-referrer="" :http-user-agent="",BS TV Tokyo
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 #EXTINF:-1  tvg-name="" tvg-id="JOOYDTV.jp" tvg-logo="" group-title="Japan - General" :http-referrer="" :http-user-agent="",MBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
 #EXTINF:-1  tvg-name="" tvg-id="JOUHDTV.jp" tvg-logo="" group-title="Japan - General" :http-referrer="" :http-user-agent="",Sun TV
