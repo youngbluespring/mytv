@@ -2,13 +2,16 @@
 #EXTINF:-1  tvg-name="" tvg-id="NHKWorldJapan.jp" tvg-logo="" group-title="Japan - General" :http-referrer="" :http-user-agent="",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="Weathernews.jp" tvg-logo="" group-title="Japan - General" :http-referrer="" :http-user-agent="",Weathernews
+
 https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
 #EXTINF:-1  tvg-name="" tvg-id="CLTV36.ph" tvg-logo="" group-title="Philippines" :http-referrer="" :http-user-agent="",CLTV 36
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
+
 #EXTINF:-1  tvg-name="" tvg-id="Animax.jp" tvg-logo="" group-title="Otaku" :http-referrer="" :http-user-agent="",Animax
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1  tvg-name="" tvg-id="ATX.jp" tvg-logo="" group-title="Otaku" :http-referrer="" :http-user-agent="",AT-X
 https://neetball.net/live/neet3.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-id="ATX.jp" tvg-logo="" group-title="Otaku" :http-referrer="" :http-user-agent="",Crunchyroll
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e28-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=95ddabd5-09c0-4680-9412-eea43c47a4da
 #EXTINF:-1 tvg-id="CSI.us",CSI
@@ -18,16 +21,18 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-lgus/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="TokuSHOUTsu.us" tvg-logo="" group-title="Otaku" :http-referrer="" :http-user-agent="",TokuSHOUTsu
 https://amg00163-shoutfactory-tokushoutsu-dmr-c1irg.amagi.tv/playlist/amg00163-shoutfactory-tokushoutsu-dmr/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="Naruto.us" tvg-logo="" group-title="Otaku" :http-referrer="" :http-user-agent="",Pluto TV Lupin the 3rd
+
+#EXTINF:-1  tvg-name="" tvg-id="Naruto.us" tvg-logo="" group-title="Otaku" :http-referrer="" :http-user-agent="",Lupin the 3rd
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f74ba51c82ac000776c669/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29b4c3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=929f711f-6565-41d9-84a9-9f2c83d020e5
-#EXTINF:-1  tvg-name="" tvg-id="Naruto.us" tvg-logo="" group-title="Otaku" :http-referrer="" :http-user-agent="",Pluto TV Naruto
+#EXTINF:-1  tvg-name="" tvg-id="Naruto.us" tvg-logo="" group-title="Otaku" :http-referrer="" :http-user-agent="",Naruto
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=
-#EXTINF:-1  tvg-name="" tvg-id="OnePiece.us" tvg-logo="" group-title="Otaku" :http-referrer="" :http-user-agent="",Pluto TV One Piece
+#EXTINF:-1  tvg-name="" tvg-id="OnePiece.us" tvg-logo="" group-title="Otaku" :http-referrer="" :http-user-agent="",One Piece
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1  tvg-name="" tvg-id="OnePiece.us" tvg-logo="" group-title="Otaku" :http-referrer="" :http-user-agent="",Sailor Moon
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/637e55347427a40007fac703/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8985-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=15c87267-b209-43f7-bd4a-3b14d32e2246
-#EXTINF:-1  tvg-name="" tvg-id="YuGiOh.us" tvg-logo="" group-title="Otaku" :http-referrer="" :http-user-agent="",Pluto TV Yu-Gi-Oh
+#EXTINF:-1  tvg-name="" tvg-id="YuGiOh.us" tvg-logo="" group-title="Otaku" :http-referrer="" :http-user-agent="",Yu-Gi-Oh
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
 #EXTINF:-1  tvg-name="" tvg-id="JOAKDTV.jp" tvg-logo="" group-title="Japan - Tokyo" :http-referrer="" :http-user-agent="",NHK G
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
 #EXTINF:-1  tvg-name="" tvg-id="JOABDTV.jp" tvg-logo="" group-title="Japan - Tokyo" :http-referrer="" :http-user-agent="",NHK E
@@ -44,6 +49,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1  tvg-name="" tvg-id="TokyoMX1.jp" tvg-logo="" group-title="Japan - Tokyo" :http-referrer="" :http-user-agent="",Tokyo MX
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+
 #EXTINF:-1  tvg-name="" tvg-id="FujiTVNEXT.jp" tvg-logo="" group-title="Japan - Sports" :http-referrer="" :http-user-agent="",Fuji TV NEXT
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
 #EXTINF:-1  tvg-name="" tvg-id="GAORASPORTS.jp" tvg-logo="" group-title="Japan - Sports" :http-referrer="" :http-user-agent="",Gaora
@@ -56,6 +62,44 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTINF:-1  tvg-name="" tvg-id="JSPORTS4.jp" tvg-logo="" group-title="Japan - Sports" :http-referrer="" :http-user-agent="",J Sports 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+
+#EXTINF:-1 tvg-id="WOWOWCinema.jp" tvg-logo="https://i.imgur.com/Wx9fkCW.png" group-title="Japan - BS",WOWOW Cinema
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+#EXTINF:-1 tvg-id="WOWOWLive.jp" tvg-logo="https://i.imgur.com/jPAYT5F.png" group-title="Japan - BS",WOWOW Live
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+#EXTINF:-1 tvg-id="WOWOWPrime.jp" tvg-logo="https://i.imgur.com/vACq7w8.png" group-title="Japan - BS",WOWOW Prime
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+
+#EXTINF:-1  tvg-name="" tvg-id="AsianCrush.us" tvg-logo="" group-title="Asia & Europe" :http-referrer="" :http-user-agent="",AsianCrush
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="ArirangTV.kr" tvg-logo="" group-title="Asia & Europe" :http-referrer="" :http-user-agent="",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="KBSWorld.kr" tvg-logo="" group-title="Asia & Europe" :http-referrer="" :http-user-agent="",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="KCTV.kp" tvg-logo="" group-title="Asia & Europe" :http-referrer="" :http-user-agent="",KCTV
+https://tv.nknews.org/tvdash/stream.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Asia & Europe" :http-referrer="" :http-user-agent="",BBC News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9f1a48db-9022-43d1-bb25-ba665285192f
+#EXTINF:-1 tvg-id="BebecitoBumysusamigos.us",Bebecito Bum y sus amigos
+#EXTINF:-1  tvg-name="" tvg-id="CNAInternational.sg" tvg-logo="" group-title="Asia & Europe" :http-referrer="" :http-user-agent="",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="BloombergTVAsia.hk" tvg-logo="" group-title="US" :http-referrer="" :http-user-agent="",Bloomberg TV Asia
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="DasErste.de" tvg-logo="" group-title="US" :http-referrer="" :http-user-agent="",Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="BloombergTVAsia.hk" tvg-logo="" group-title="US" :http-referrer="" :http-user-agent="",Formula 1 Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=922e06a8-1ba6-4236-9931-06d471735996
+
+#EXTINF:-1  tvg-name="" tvg-id="ClassicArtsShowcase.us" tvg-logo="" group-title="US" :http-referrer="" :http-user-agent="",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="WMPTDT2.us" tvg-logo="" group-title="US" :http-referrer="" :http-user-agent="",PBS Create
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="PBSKidsPacific.us" tvg-logo="" group-title="US" :http-referrer="" :http-user-agent="",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="WKMJDT3.us" tvg-logo="" group-title="US" :http-referrer="" :http-user-agent="",PBS World
+https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
+
 #EXTINF:-1  tvg-name="" tvg-id="NHKBS.jp" tvg-logo="" group-title="Japan - BS" :http-referrer="" :http-user-agent="",NHK BS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
 #EXTINF:-1  tvg-name="" tvg-id="BSFuji.jp" tvg-logo="" group-title="Japan - BS" :http-referrer="" :http-user-agent="",BS Fuji TV
@@ -68,40 +112,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
 #EXTINF:-1  tvg-name="" tvg-id="BSTVTokyo.jp" tvg-logo="" group-title="Japan - BS" :http-referrer="" :http-user-agent="",BS TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
-#EXTINF:-1 tvg-id="WOWOWCinema.jp" tvg-logo="https://i.imgur.com/Wx9fkCW.png" group-title="Japan - BS",WOWOW Cinema
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
-#EXTINF:-1 tvg-id="WOWOWLive.jp" tvg-logo="https://i.imgur.com/jPAYT5F.png" group-title="Japan - BS",WOWOW Live
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
-#EXTINF:-1 tvg-id="WOWOWPrime.jp" tvg-logo="https://i.imgur.com/vACq7w8.png" group-title="Japan - BS",WOWOW Prime
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
-#EXTINF:-1  tvg-name="" tvg-id="AsianCrush.us" tvg-logo="" group-title="Asia & Europe" :http-referrer="" :http-user-agent="",AsianCrush
-https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="ArirangTV.kr" tvg-logo="" group-title="Asia & Europe" :http-referrer="" :http-user-agent="",Arirang
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="KBSWorld.kr" tvg-logo="" group-title="Asia & Europe" :http-referrer="" :http-user-agent="",KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="KCTV.kp" tvg-logo="" group-title="Asia & Europe" :http-referrer="" :http-user-agent="",KCTV
-https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:-1 tvg-id="" group-title="Asia & Europe" :http-referrer="" :http-user-agent="",BBC News
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9f1a48db-9022-43d1-bb25-ba665285192f
-#EXTINF:-1 tvg-id="BebecitoBumysusamigos.us",Bebecito Bum y sus amigos
-#EXTINF:-1  tvg-name="" tvg-id="CNAInternational.sg" tvg-logo="" group-title="Asia & Europe" :http-referrer="" :http-user-agent="",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="DasErste.de" tvg-logo="" group-title="US" :http-referrer="" :http-user-agent="",Das Erste
-https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="BloombergTVAsia.hk" tvg-logo="" group-title="US" :http-referrer="" :http-user-agent="",Bloomberg TV Asia
-https://bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="BloombergTVAsia.hk" tvg-logo="" group-title="US" :http-referrer="" :http-user-agent="",Formula 1 Channel
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=922e06a8-1ba6-4236-9931-06d471735996
-#EXTINF:-1 tvg-id="",FOX Sports
-#EXTINF:-1  tvg-name="" tvg-id="ClassicArtsShowcase.us" tvg-logo="" group-title="US" :http-referrer="" :http-user-agent="",Classic Arts Showcase
-https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="WMPTDT2.us" tvg-logo="" group-title="US" :http-referrer="" :http-user-agent="",PBS Create
-https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="PBSKidsPacific.us" tvg-logo="" group-title="US" :http-referrer="" :http-user-agent="",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="WKMJDT3.us" tvg-logo="" group-title="US" :http-referrer="" :http-user-agent="",PBS World
-https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
+
 #EXTINF:-1  tvg-name="" tvg-id="JODXDTV.jp" tvg-logo="" group-title="Japan - Osaka" :http-referrer="" :http-user-agent="",Kansai TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
 #EXTINF:-1  tvg-name="" tvg-id="JOIXDTV.jp" tvg-logo="" group-title="Japan - Osaka" :http-referrer="" :http-user-agent="",YTV
