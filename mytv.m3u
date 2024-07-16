@@ -81,6 +81,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="BloombergTVAsia.hk" tvg-logo="" group-title="US" :http-referrer="" :http-user-agent="",Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-id="", group-title="US", Formula 1 Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=922e06a8-1ba6-4236-9931-06d471735996
+#EXTINF:-1 tvg-id="",FOX Sports
 #EXTINF:-1  tvg-name="" tvg-id="ClassicArtsShowcase.us" tvg-logo="" group-title="US" :http-referrer="" :http-user-agent="",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="WMPTDT2.us" tvg-logo="" group-title="US" :http-referrer="" :http-user-agent="",PBS Create
