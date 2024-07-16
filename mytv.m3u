@@ -9,6 +9,9 @@ https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1  tvg-name="" tvg-id="ATX.jp" tvg-logo="" group-title="Otaku" :http-referrer="" :http-user-agent="",AT-X
 https://neetball.net/live/neet3.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="ATX.jp" tvg-logo="" group-title="Otaku" :http-referrer="" :http-user-agent="",Crunchyroll
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e28-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=95ddabd5-09c0-4680-9412-eea43c47a4da
+#EXTINF:-1 tvg-id="CSI.us",CSI
 #EXTINF:-1  tvg-name="" tvg-id="5812b7d3249444e05d09cc49" tvg-logo="" group-title="Otaku" :http-referrer="" :http-user-agent="",Pluto TV Anime All Day
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  tvg-name="" tvg-id="RetroCrush.us" tvg-logo="" group-title="Otaku" :http-referrer="" :http-user-agent="",RetroCrush
@@ -79,6 +82,9 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="KCTV.kp" tvg-logo="" group-title="Asia & Europe" :http-referrer="" :http-user-agent="",KCTV
 https://tv.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 tvg-id="" group-title="Asia & Europe" :http-referrer="" :http-user-agent="",BBC News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9f1a48db-9022-43d1-bb25-ba665285192f
+#EXTINF:-1 tvg-id="BebecitoBumysusamigos.us",Bebecito Bum y sus amigos
 #EXTINF:-1  tvg-name="" tvg-id="CNAInternational.sg" tvg-logo="" group-title="Asia & Europe" :http-referrer="" :http-user-agent="",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="DasErste.de" tvg-logo="" group-title="US" :http-referrer="" :http-user-agent="",Das Erste
