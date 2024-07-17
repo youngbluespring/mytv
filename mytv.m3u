@@ -2,10 +2,24 @@
 #EXTINF:-1  tvg-name="" tvg-id="NHKWorldJapan.jp" tvg-logo="" group-title="Japan - General" :http-referrer="" :http-user-agent="",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="Weathernews.jp" tvg-logo="" group-title="Japan - General" :http-referrer="" :http-user-agent="",Weathernews
-
 https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
+
+#EXTINF:-1 tvg-id="CinemaOne.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="CLTV36.ph" tvg-logo="" group-title="Philippines" :http-referrer="" :http-user-agent="",CLTV 36
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
+#EXTINF:-1 tvg-id="DZRHNewsTV.ph" tvg-logo="https://i.imgur.com/qe1QqZh.png" group-title="News",DZRH News TV
+https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
+#EXTINF:-1 tvg-id="GreatCommissionTV.ph" tvg-logo="https://i.imgur.com/8cvikOo.png" group-title="Undefined",Great Commission TV
+http://45.32.115.103/live/livestream/index.m3u8
+#EXTINF:-1 tvg-id="OrasngHimala.ph" tvg-logo="https://i.imgur.com/UjXSgKu.png" group-title="Undefined",Oras Ng Himala
+https://ythls.armelin.one/channel/UCG_nkfwsIhO1OiRQUGfdLyw.m3u8
+#EXTINF:-1 tvg-id="TVMaria.ph" tvg-logo="https://i.imgur.com/yhIM9yU.png" group-title="Undefined",TV Maria
+https://ythls.armelin.one/channel/UCDXPB23ws_T0rVvrXVCYqyA.m3u8
+#EXTINF:-1 tvg-id="UNTV.ph" tvg-logo="https://i.imgur.com/gFcpYSJ.png" group-title="General",UNTV
+https://ythls.armelin.one/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8
+#EXTINF:-1 tvg-id="TruthChannel.ph" tvg-logo="https://i.imgur.com/NRuM9Xt.png" group-title="Religious",Truth Channel
+https://ythls.armelin.one/channel/UCa3hzYljDByZxkjIMah_2nw.m3u8
 
 #EXTINF:-1  tvg-name="" tvg-id="Animax.jp" tvg-logo="" group-title="Otaku" :http-referrer="" :http-user-agent="",Animax
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
@@ -78,6 +92,8 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="KCTV.kp" tvg-logo="" group-title="Asia & Europe" :http-referrer="" :http-user-agent="",KCTV
 https://tv.nknews.org/tvdash/stream.mpd
 
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Asia & Europe" :http-referrer="" :http-user-agent="",BBC News
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9f1a48db-9022-43d1-bb25-ba665285192f
 #EXTINF:-1 tvg-id="BebecitoBumysusamigos.us",Bebecito Bum y sus amigos
