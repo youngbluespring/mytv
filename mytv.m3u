@@ -3,22 +3,12 @@
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="Japan - General" :http-referrer="" :http-user-agent="",Weathernews
 https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="Philippines" :http-referrer="" :http-user-agent="",Cinema One
-https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="Philippines" :http-referrer="" :http-user-agent="",CLTV 36
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="Philippines" :http-referrer="" :http-user-agent="",DZRH News TV
-https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="Philippines" :http-referrer="" :http-user-agent="",Great Commission TV
 http://45.32.115.103/live/livestream/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="Philippines" :http-referrer="" :http-user-agent="",Oras Ng Himala
 https://ythls.armelin.one/channel/UCG_nkfwsIhO1OiRQUGfdLyw.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="Philippines" :http-referrer="" :http-user-agent="",TV Maria
-https://ythls.armelin.one/channel/UCDXPB23ws_T0rVvrXVCYqyA.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="Philippines" :http-referrer="" :http-user-agent="",UNTV
-https://ythls.armelin.one/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="Philippines" :http-referrer="" :http-user-agent="",Truth Channel
-https://ythls.armelin.one/channel/UCa3hzYljDByZxkjIMah_2nw.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="Anime" :http-referrer="" :http-user-agent="",Animax
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="Anime" :http-referrer="" :http-user-agent="",AT-X
