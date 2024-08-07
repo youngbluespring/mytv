@@ -7,8 +7,6 @@ https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/1
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="Philippines" :http-referrer="" :http-user-agent="",Great Commission TV
 http://45.32.115.103/live/livestream/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="Philippines" :http-referrer="" :http-user-agent="",Oras Ng Himala
-https://ythls.armelin.one/channel/UCG_nkfwsIhO1OiRQUGfdLyw.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="Anime" :http-referrer="" :http-user-agent="",Animax
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="Anime" :http-referrer="" :http-user-agent="",AT-X
