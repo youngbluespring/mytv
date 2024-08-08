@@ -13,8 +13,6 @@ http://45.32.115.103/live/livestream/index.m3u8
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",SMNI
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Religious" :http-referrer="" :http-user-agent="",TBN Inspire
-https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Japan - Tokyo" :http-referrer="" :http-user-agent="",NHK G
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Japan - Tokyo" :http-referrer="" :http-user-agent="",NHK E
@@ -135,6 +133,8 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Religious" :http-referrer="" :http-user-agent="",TBN
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a3bb369c-6039-4656-a79d-8e87112a8232
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Religious" :http-referrer="" :http-user-agent="",TBN Inspire
+https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Japan - Osaka" :http-referrer="" :http-user-agent="",Kansai TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Japan - Osaka" :http-referrer="" :http-user-agent="",YTV
