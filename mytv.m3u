@@ -101,7 +101,7 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="News" :http-referrer="" :http-user-agent="",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="News" :http-referrer="" :http-user-agent="",FOX News Channel
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="News" :http-referrer="" :http-user-agent="",FOX News
 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="News" :http-referrer="" :http-user-agent="",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
@@ -138,7 +138,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Education" :http-referrer="" :http-user-agent="",PBS World
 https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Religious" :http-referrer="" :http-user-agent="",EWTN Asia-Pacific
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Religious" :http-referrer="" :http-user-agent="",EWTN
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Religious" :http-referrer="" :http-user-agent="",SMNI
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
