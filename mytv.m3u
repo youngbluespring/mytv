@@ -109,6 +109,8 @@ https://mcdn.daserste.de/daserste/de/master.m3u8
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",KCTV
 https://tv.nknews.org/tvdash/stream.mpd
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",Star 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",TV5 Monde
