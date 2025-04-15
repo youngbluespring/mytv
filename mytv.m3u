@@ -4,18 +4,10 @@ https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",A2Z
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",ANC
-https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",Cinema One
-https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",Cine Mo!
-https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",GCTV
 http://45.32.115.103/live/livestream/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",INCTV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",MYX
-https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",Super Radyo DZBB
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",Teleradyo Serbisyo
