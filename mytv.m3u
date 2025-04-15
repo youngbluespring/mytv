@@ -12,41 +12,38 @@ https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd651
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Japan",NHK G
-https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-id="JOABDTV.jp" tvg-logo="https://i.imgur.com/WxtftlO.png" group-title="Japan",NHK E
+#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="" group-title="Japan",NHK G
+http://vthanh.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="" group-title="Japan",NHK E
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=4
-
-#EXTINF:-1 tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="General",TV Asahi
+#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="" group-title="Japan",TV Asahi
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=4
-#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="General",Fuji TV
+#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="" group-title="Japan",Fuji TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=4
-#EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="General",Nippon TV
+#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="" group-title="Japan",Nippon TV
 https://ntv4.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="https://i.imgur.com/dUn2GRn.png" group-title="General",TBS
+#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="" group-title="Japan",TBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=4
-#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/512px-TV_Tokyo_%28Japanese%29_2023.svg.png" group-title="General",TV Tokyo (544p)
+#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="" group-title="Japan",TV Tokyo (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=4
-#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-logo="https://i.imgur.com/0i5rDRN.png" group-title="Japan",Tokyo MX
+#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="" group-title="Japan",Tokyo MX
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=4
-#EXTINF:-1 tvg-id="GAORASPORTS.jp" tvg-logo="https://i.imgur.com/UgKRfuw.png" group-title="Sports",Gaora Sports
+#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="" group-title="Japan",Gaora Sports
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=4
-#EXTINF:-1 tvg-id="JSPORTS1.jp" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Sports",J Sports 1
+#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="" group-title="Japan",J Sports 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=4
-#EXTINF:-1 tvg-id="JSPORTS2.jp" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="Sports",J Sports 2
+#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="" group-title="Japan",J Sports 2
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=4
-#EXTINF:-1 tvg-id="JSPORTS3.jp" tvg-logo="https://i.imgur.com/xdI361E.png" group-title="Sports",J Sports 3
+#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="" group-title="Japan",J Sports 3
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=4
-#EXTINF:-1 tvg-id="JSPORTS4.jp" tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="Sports",J Sports 4
+#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="" group-title="Japan",J Sports 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=4
-#EXTINF:-1 tvg-id="WOWOWCinema.jp" tvg-logo="https://i.imgur.com/Wx9fkCW.png" group-title="Movies",WOWOW Cinema
+#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="" group-title="Japan",WOWOW Cinema
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=4
-#EXTINF:-1 tvg-id="WOWOWLive.jp" tvg-logo="https://i.imgur.com/jPAYT5F.png" group-title="Undefined",WOWOW Live
+#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="" group-title="Japan",WOWOW Live
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=4
-#EXTINF:-1 tvg-id="WOWOWPrime.jp" tvg-logo="https://i.imgur.com/vACq7w8.png" group-title="Undefined",WOWOW Prime
+#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="" group-title="Japan",WOWOW Prime
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=4
-#EXTINF:-1 tvg-id="Weathernews.jp" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Weather",Weathernews
-https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Anime" :http-referrer="" :http-user-agent="",Anime All Day
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
