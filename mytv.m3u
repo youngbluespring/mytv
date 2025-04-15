@@ -52,12 +52,8 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",Euronews English
-https://rakuten-euronews-1-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",KCTV
-http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+http://mytv.dothome.co.kr/ch/catv/7.php
 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Education" :http-referrer="" :http-user-agent="",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
