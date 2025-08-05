@@ -32,8 +32,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Front-row-channel_logo.png" group-title="Music",Front Row Channel
-https://jungotvstream.chanall.tv/jungotv/frontrow/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://gctv.asia/img/gctv-logo.png" group-title="Religious",GCTV
 http://45.32.115.103/live/livestream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/INC_TV_New_Logo.png" group-title="Religious",INCTV
@@ -55,5 +53,3 @@ https://amg19223-amg19223c5-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="Sports",Tap Sports
 https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",Zoo Moo
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
