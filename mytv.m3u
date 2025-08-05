@@ -41,7 +41,7 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",Das Erste
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",DW English
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",Deutsche Welle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="Foreign",France 24
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
@@ -49,6 +49,8 @@ https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 http://45.32.115.103/live/livestream/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",KBS World
 http://mytv.dothome.co.kr/ch/catv/7.php
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",KCTV
+https://tv.nknews.org/tvhls/stream.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",Mindanow
 https://streams1.comclark.com/overlay/mindanow/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Kids" :http-referrer="" :http-user-agent="",Moonbug Kids
