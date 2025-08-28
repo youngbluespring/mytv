@@ -60,5 +60,17 @@ https://jenny.torontocast.com:2000/stream/J1GOLD
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://mmo.aiircdn.com/387/5e76abc65714c.png" tvg-shift="" group-title="Radio" :http-referrer="" :http-user-agent="",J1 Xtra
 https://jenny.torontocast.com:2000/stream/J1XTRA
 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Radio" :http-referrer="" :http-user-agent="",Japan Hits
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://asiadreamradio.torontocast.stream/stations/en/images/en/japanhits.png" tvg-shift="" group-title="Radio" :http-referrer="" :http-user-agent="",Japan Hits
 https://cast1.torontocast.com:2120/stream
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://asiadreamradio.torontocast.stream/stations/en/images/en/powerplayjpop16.png" tvg-shift="" group-title="Radio" :http-referrer="" :http-user-agent="",J-Pop Powerplay
+http://kathy.torontocast.com:3560/
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://asiadreamradio.torontocast.stream/stations/en/images/en/ppkawaii.png" tvg-shift="" group-title="Radio" :http-referrer="" :http-user-agent="",J-Pop Powerplay Kawaii
+https://kathy.torontocast.com:3060/;?shoutcast
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://asiadreamradio.torontocast.stream/stations/en/images/en/natsukashii.png" tvg-shift="" group-title="Radio" :http-referrer="" :http-user-agent="",J-Pop Sakura
+https://cast1.torontocast.com:2170/;.mp3
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://asiadreamradio.torontocast.stream/stations/en/images/en/jrockpowerplay-1.png" tvg-shift="" group-title="Radio" :http-referrer="" :http-user-agent="",J-Rock Powerplay
+https://kathy.torontocast.com:3340/;?shoutcast
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://asiadreamradio.torontocast.stream/stations/en/images/en/jclubhiphop.png" tvg-shift="" group-title="Radio" :http-referrer="" :http-user-agent="",J-Club Hiphop
+https://kathy.torontocast.com:3350/;?shoutcast
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://asiadreamradio.torontocast.stream/stations/en/images/en/JazzSakuraLogo512jp.png" tvg-shift="" group-title="Radio" :http-referrer="" :http-user-agent="",Jazz Sakura
+http://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3
