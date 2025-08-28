@@ -51,7 +51,6 @@ https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="Sports",Tap Sports
 https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
 
-
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://mmo.aiircdn.com/387/60c286938e846.png" tvg-shift="" group-title="Radio" :http-referrer="" :http-user-agent="",J1 HD
 https://maggie.torontocast.com:2000/stream/J1HD
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://mmo.aiircdn.com/387/5e763985f1dab.png" tvg-shift="" group-title="Radio" :http-referrer="" :http-user-agent="",J1 Hits
@@ -61,3 +60,5 @@ https://jenny.torontocast.com:2000/stream/J1GOLD
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://mmo.aiircdn.com/387/5e76abc65714c.png" tvg-shift="" group-title="Radio" :http-referrer="" :http-user-agent="",J1 Xtra
 https://jenny.torontocast.com:2000/stream/J1XTRA
 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Radio" :http-referrer="" :http-user-agent="",Japan Hits
+https://cast1.torontocast.com:2120/stream
