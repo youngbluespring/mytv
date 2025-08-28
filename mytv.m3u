@@ -26,7 +26,7 @@ https://streams1.comclark.com/overlay/mindanow/playlist.m3u8
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",CNA
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",CCTV-4
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -56,8 +56,8 @@ https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 https://maggie.torontocast.com:2000/stream/J1HD
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://mmo.aiircdn.com/387/5e763985f1dab.png" tvg-shift="" group-title="Radio" :http-referrer="" :http-user-agent="",J1 Hits
 https://jenny.torontocast.com:2000/stream/J1HITS
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="https://mmo.aiircdn.com/387/5e76b6ebedcef.png" group-title="Radio" :http-referrer="" :http-user-agent="",J1 Gold
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://mmo.aiircdn.com/387/5e76b6ebedcef.png" tvg-shift="" group-title="Radio" :http-referrer="" :http-user-agent="",J1 Gold
 https://jenny.torontocast.com:2000/stream/J1GOLD
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="https://mmo.aiircdn.com/387/5e76abc65714c.png" group-title="Radio" :http-referrer="" :http-user-agent="",J1 Xtra
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://mmo.aiircdn.com/387/5e76abc65714c.png" tvg-shift="" group-title="Radio" :http-referrer="" :http-user-agent="",J1 Xtra
 https://jenny.torontocast.com:2000/stream/J1XTRA
 
