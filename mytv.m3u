@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",NHK World Japan
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://en.wikipedia.org/wiki/NHK_World-Japan#/media/File:NHK_World.svg" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",NHK World Japan
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Foreign",NHK G
 https://nhk4.mov3.co/hls/nhk.m3u8
