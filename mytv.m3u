@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",NHK World Japan
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://swling.com/blog/wp-content/uploads/2018/03/NHK-World-Japan-Logo-300x300.png" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",NHK World Japan
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Foreign",NHK G
 https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-id="RetroCrush.us@SD" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="Animation",RetroCrush
 https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/DWAR_1494_Abante_Radyo_Mabilis_Mabangis_Walang_Mintis_Logo_2024.png" group-title="Radio",Abante RadyoTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/DWAR_1494_Abante_Radyo_Mabilis_Mabangis_Walang_Mintis_Logo_2024.png" group-title="Local",Abante RadyoTV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (SMART-TV; Linux; Tizen 8.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.0 Chrome/85.0.4183.93 TV Safari/537.36"
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BilyonaryoNewsChannel_Logo_-_Black_%282024%29.png/250px-BilyonaryoNewsChannel_Logo_-_Black_%282024%29.png" group-title="Local",Bilyonaryo News Channel
+https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png" group-title="Local",CCTN 47
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cltv36.tv/wp-content/uploads/2024/09/CLTV36-Logo-Flat.png" group-title="Local",CLTV 36
+https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://gctv.asia/img/gctv-logo.png" group-title="Local",GCTV
+http://45.32.115.103/live/livestream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/3f6f0d_ab7b0ed79ba7476cb9522381586d4d0f~mv2.png" group-title="Local",Jungo Pinoy TV
+https://jungotvstream.chanall.tv/jungotv/jungopinoytv/stream.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Local" :http-referrer="" :http-user-agent="",Mindanow
+https://streams1.comclark.com/overlay/mindanow/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABCAustralia.au" tvg-logo="https://i.imgur.com/qQ33TVM.png" group-title="Foreign",ABC Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BilyonaryoNewsChannel_Logo_-_Black_%282024%29.png/250px-BilyonaryoNewsChannel_Logo_-_Black_%282024%29.png" group-title="Local",Bilyonaryo News Channel
-https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/2/21/Blast_Sports_Logo_2024.png" group-title="Sports",Blast Sports
-https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c1-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us@Asia" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Foreign",Bloomberg
-https://bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png" group-title="Religious",CCTN 47
-http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Education" :http-referrer="" :http-user-agent="",Classic Arts Showcase
-https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cltv36.tv/wp-content/uploads/2024/09/CLTV36-Logo-Flat.png" group-title="Local",CLTV 36
-https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",CCTV-4
@@ -36,12 +36,12 @@ https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",Deutsche Welle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="Foreign",France 24
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://gctv.asia/img/gctv-logo.png" group-title="Religious",GCTV
-http://45.32.115.103/live/livestream/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",Mindanow
-https://streams1.comclark.com/overlay/mindanow/playlist.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Education" :http-referrer="" :http-user-agent="",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/2/21/Blast_Sports_Logo_2024.png" group-title="Sports",Blast Sports
+https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c1-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tapdmv.ovationproductionsmanila.com/logo-PremierFootball-2021.png" group-title="Sports",Premier Football
 https://amg19223-amg19223c5-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c5-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="Sports",Premier Sports 1 
@@ -52,11 +52,12 @@ https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
 
 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Radio" :http-referrer="" :http-user-agent="https://mmo.aiircdn.com/387/60c286938e846.png",J1 HD
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://mmo.aiircdn.com/387/60c286938e846.png" tvg-shift="" group-title="Radio" :http-referrer="" :http-user-agent="",J1 HD
 https://maggie.torontocast.com:2000/stream/J1HD
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="https://mmo.aiircdn.com/387/5e763985f1dab.png" group-title="Radio" :http-referrer="" :http-user-agent="",J1 Hits
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://mmo.aiircdn.com/387/5e763985f1dab.png" tvg-shift="" group-title="Radio" :http-referrer="" :http-user-agent="",J1 Hits
 https://jenny.torontocast.com:2000/stream/J1HITS
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Radio" :http-referrer="" :http-user-agent="https://mmo.aiircdn.com/387/5e76b6ebedcef.png",J1 Gold
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="https://mmo.aiircdn.com/387/5e76b6ebedcef.png" group-title="Radio" :http-referrer="" :http-user-agent="",J1 Gold
 https://jenny.torontocast.com:2000/stream/J1GOLD
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Radio" :http-referrer="" :http-user-agent="https://mmo.aiircdn.com/387/5e76abc65714c.png",J1 Xtra
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="https://mmo.aiircdn.com/387/5e76abc65714c.png" group-title="Radio" :http-referrer="" :http-user-agent="",J1 Xtra
 https://jenny.torontocast.com:2000/stream/J1XTRA
+
