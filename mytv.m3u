@@ -45,8 +45,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://gctv.asia/img/gctv-logo.png" group-title="Religious",GCTV
 http://45.32.115.103/live/livestream/index.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",KBS World
-http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",KCTV
 https://tv.nknews.org/tvhls/stream.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",Mindanow
