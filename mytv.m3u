@@ -2,5 +2,76 @@
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",NHK World Japan
 http://51.75.127.199:3141/nhkworldjapan/index.m3u8
 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",Abante TV
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",ABC Australia
+https://c.mjh.nz/abc-nsw.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",ABC Entertains
+https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",ABC Family
+https://c.mjh.nz/abc-tv-plus.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",ABC News
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",Bilyonaryo
+https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",CCTV-1
+http://74.91.26.218:82/live/cctv1hd.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",CCTV-4
+http://74.91.26.218:82/live/cctv4hd.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",CLTV
+https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",Das Erste
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",DD National
+http://107.167.16.138/ddnational/index.m3u8?token=test
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",DD News
+https://mumbai-edge.smartplaytv.in/DDNews/index.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",DW
+https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",Hope Channel Philippines
+https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",INC Radio
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",INC TV
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8
+
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",KCTV
 https://live.koryocdn.org/kctv/index.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",NHK G
+https://nhk4.mov3.co/hls/nhk.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",Premiere Sports
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+
