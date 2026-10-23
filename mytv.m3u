@@ -53,6 +53,9 @@ https://mumbai-edge.smartplaytv.in/DDNews/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Foreign" :http-referrer="" :http-user-agent="",DW
 https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",FilAmTV
+https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
+
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" tvg-shift="" group-title="Philippines" :http-referrer="" :http-user-agent="",Hope Channel Philippines
 https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
 
